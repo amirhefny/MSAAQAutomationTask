@@ -6,7 +6,7 @@ This repository contains end-to-end automated tests built with Playwright and Ty
 
 ```
 .
-├── .github/workflows/ci.yml        # GitHub Actions workflow (runs @end-to-end tests only)
+├── .github/workflows/end-to-end.yml        # GitHub Actions workflow (runs @end-to-end tests only)
 ├── allure-results/                 # Allure raw results (generated)
 ├── CoursePhoto/                    # Static assets for tests
 ├── data/                           # Test data (e.g., CSV files)
