@@ -25,9 +25,13 @@ jobs:
       
     - name: Install Playwright browsers
       run: npx playwright install --with-deps
+      env:
+        PLAYWRIGHT_HEADLESS: true
       
     - name: Run end-to-end tests
       run: npx playwright test --grep "@end-to-end"
+      env:
+        PLAYWRIGHT_HEADLESS: true
       
     - name: Upload test report
       uses: actions/upload-artifact@v4
