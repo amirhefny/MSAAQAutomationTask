@@ -27,7 +27,7 @@ jobs:
       run: npx playwright install --with-deps
       
     - name: Run end-to-end tests
-      run: npx playwright test --grep "@end-to-end" --project=chromium --headless
+      run: npx playwright test --grep "@end-to-end" --project=chromium
       
     - name: Upload test report
       uses: actions/upload-artifact@v4
