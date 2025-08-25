@@ -15,7 +15,6 @@ export class LoginPage extends BasePage {
         await this.navigateTo("/");
         logger.step("🔐 LoginPage: Successfully navigated to login page");
     }
-
     // extract locators from JSON file
     private locators = allLocators.loginpage;
     private usernameInput = () => this.page.locator(this.locators.usernameInput);
