@@ -1,0 +1,183 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e7]:
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - button [ref=e11] [cursor=pointer]:
+              - generic [ref=e13] [cursor=pointer]: Q
+              - generic [ref=e15] [cursor=pointer]: QA Test Academy
+              - link [ref=e16] [cursor=pointer]:
+                - /url: //qa-test.misklms.com
+                - img
+              - img [ref=e17] [cursor=pointer]
+        - list [ref=e22]:
+          - listitem [ref=e23]:
+            - link [ref=e24] [cursor=pointer]:
+              - /url: /analytics
+              - img [ref=e25] [cursor=pointer]
+              - generic [ref=e28] [cursor=pointer]: التحليلات والتقارير
+          - listitem [ref=e29]:
+            - button [expanded] [ref=e30] [cursor=pointer]:
+              - img [ref=e31] [cursor=pointer]
+              - generic [ref=e35] [cursor=pointer]: تجربة المتدرب
+              - img [ref=e36] [cursor=pointer]
+            - list [ref=e39]:
+              - listitem [ref=e40]:
+                - link [ref=e41] [cursor=pointer]:
+                  - /url: /orders
+                  - img [ref=e42] [cursor=pointer]
+                  - generic [ref=e48] [cursor=pointer]: الطلبات
+              - listitem [ref=e49]:
+                - link [ref=e50] [cursor=pointer]:
+                  - /url: /trainees
+                  - img [ref=e51] [cursor=pointer]
+                  - generic [ref=e53] [cursor=pointer]: تجربة المتدربين
+              - listitem [ref=e54]:
+                - link [ref=e55] [cursor=pointer]:
+                  - /url: /trainees/assignments
+                  - img [ref=e56] [cursor=pointer]
+                  - generic [ref=e61] [cursor=pointer]: الأنشطة التفاعلية
+          - listitem [ref=e63]:
+            - button [ref=e64] [cursor=pointer]:
+              - img [ref=e65] [cursor=pointer]
+              - generic [ref=e67] [cursor=pointer]: مساق باي
+              - img [ref=e68] [cursor=pointer]
+          - listitem [ref=e70]:
+            - button [ref=e71] [cursor=pointer]:
+              - img [ref=e72] [cursor=pointer]
+              - generic [ref=e75] [cursor=pointer]: إدارة المحتوى
+              - img [ref=e76] [cursor=pointer]
+          - listitem [ref=e78]:
+            - button [ref=e79] [cursor=pointer]:
+              - img [ref=e80] [cursor=pointer]
+              - generic [ref=e84] [cursor=pointer]: التسويق
+              - img [ref=e85] [cursor=pointer]
+          - listitem [ref=e87]:
+            - button [ref=e88] [cursor=pointer]:
+              - img [ref=e89] [cursor=pointer]
+              - generic [ref=e91] [cursor=pointer]: تخصيص المنصة
+              - img [ref=e92] [cursor=pointer]
+          - listitem [ref=e94]:
+            - button [ref=e95] [cursor=pointer]:
+              - img [ref=e96] [cursor=pointer]
+              - generic [ref=e99] [cursor=pointer]: الإعدادات
+              - img [ref=e100] [cursor=pointer]
+        - list [ref=e103]:
+          - listitem [ref=e104]:
+            - button [ref=e105] [cursor=pointer]:
+              - generic [ref=e107] [cursor=pointer]: Q
+              - generic [ref=e108] [cursor=pointer]:
+                - generic [ref=e109] [cursor=pointer]: QA member
+                - generic [ref=e110] [cursor=pointer]: raghad.a+QAmember@msaaq.com
+              - img [ref=e111] [cursor=pointer]
+      - main [ref=e114]:
+        - navigation [ref=e116]:
+          - heading [level=1] [ref=e118]: الرئيسية
+          - generic [ref=e120]:
+            - log [ref=e122]
+            - generic [ref=e123]:
+              - img [ref=e125]
+              - generic [ref=e128]:
+                - generic [ref=e129]: ابحث عن أيَّ شيء داخل المنصة
+                - combobox [ref=e131]
+          - button [ref=e132] [cursor=pointer]:
+            - img
+            - text: إضافة جديد
+          - button [ref=e133] [cursor=pointer]:
+            - button [ref=e134] [cursor=pointer]:
+              - img
+        - alert [ref=e136]:
+          - img [ref=e137]
+          - heading [level=5] [ref=e139]: أهلاً، تحتاج أن تحدّث رقم جوالك قبل مرور 2 أيام، لنتأكد أن كل التنبيهات تصلك بشكل صحيح.
+          - button [ref=e141] [cursor=pointer]: حدّث الرقم
+        - generic [ref=e143]:
+          - tablist [ref=e145]:
+            - tab [selected] [ref=e146] [cursor=pointer]: نظرة عامة
+            - tab [ref=e147] [cursor=pointer]: المنتجات
+            - tab [ref=e148] [cursor=pointer]: الأرباح
+            - tab [ref=e149] [cursor=pointer]: المتدربين
+            - tab [ref=e150] [cursor=pointer]: الزيارات
+            - tab [ref=e151] [cursor=pointer]: الحملات التسويقية
+          - alert [ref=e152]:
+            - img [ref=e153]
+            - heading [level=5] [ref=e155]: يمكنك الآن تفعيل المصادقة الثنائية لعملائك ليتمتعوا بحماية متكاملة
+            - generic [ref=e156]: فعَّل المصادقة الثنائية لتعزيز أمان حسابات عملائك المرتبطة بمنصتك، ولضمان أقصى مستوى من الحماية.
+            - link [ref=e158] [cursor=pointer]:
+              - /url: /settings/security
+              - text: اعرف المزيد
+          - generic [ref=e159]:
+            - generic [ref=e165]:
+              - img [ref=e166]:
+                - generic [ref=e170]:
+                  - generic [ref=e173]: 2025-08-19
+                  - generic [ref=e176]: 2025-08-20
+                  - generic [ref=e179]: 2025-08-21
+                  - generic [ref=e182]: 2025-08-22
+                  - generic [ref=e185]: 2025-08-23
+                  - generic [ref=e188]: 2025-08-24
+                  - generic [ref=e191]: 2025-08-25
+                - generic [ref=e193]:
+                  - generic [ref=e196]: "0"
+                  - generic [ref=e199]: "5"
+                  - generic [ref=e202]: "10"
+                  - generic [ref=e205]: "15"
+                  - generic [ref=e208]: "20"
+              - list [ref=e212]:
+                - listitem [ref=e213]:
+                  - img [ref=e214]
+                  - generic [ref=e216]: الدورات التدريبية
+                - listitem [ref=e217]:
+                  - img [ref=e218]
+                  - generic [ref=e220]: المنتجات الرقمية
+            - generic [ref=e222]:
+              - generic [ref=e223]:
+                - paragraph [ref=e225]: الدورات الأكثر مبيعًا
+                - generic [ref=e227]:
+                  - img [ref=e229]
+                  - generic [ref=e232]:
+                    - heading [level=3] [ref=e233]: لا يوجد أيّ بيانات لعرضها!
+                    - paragraph [ref=e234]: لا توجد بيانات في هذا القسم حاليًا، ابدأ بإضافة جديد الآن.
+              - generic [ref=e235]:
+                - paragraph [ref=e237]: الطلبات الجديدة
+                - generic [ref=e239]:
+                  - img [ref=e241]
+                  - generic [ref=e244]:
+                    - heading [level=3] [ref=e245]: لا يوجد أيّ بيانات لعرضها!
+                    - paragraph [ref=e246]: لا توجد بيانات في هذا القسم حاليًا، ابدأ بإضافة جديد الآن.
+    - region "Notifications alt+T"
+  - alert [ref=e247]
+  - dialog [ref=e249]:
+    - generic [ref=e251]:
+      - img [ref=e254]
+      - generic [ref=e256]:
+        - heading "تحتاج لتوثيق رقم الجوال" [level=3] [ref=e257]
+        - generic [ref=e258]: نعتذر على الازعاج لضمان استمرار الدعم واستمرارية وصولك للتحديثات برجاء إضافة رقم الجوال الخاص بك
+      - generic [ref=e260]:
+        - generic [ref=e261]:
+          - generic [ref=e262]: رقم الهاتف
+          - generic [ref=e263]: "*"
+        - generic [ref=e264]:
+          - button [active] [ref=e266] [cursor=pointer]:
+            - img
+          - textbox "أدخِل رقم هاتفك" [ref=e268]: +
+      - generic [ref=e269]:
+        - button "تأكيد الرقم" [disabled]
+        - button "الإضافة لاحقًا" [ref=e270] [cursor=pointer]
+  - button "دردشة مفتوحة" [ref=e271] [cursor=pointer]:
+    - generic [ref=e273] [cursor=pointer]:
+      - generic [ref=e275] [cursor=pointer]:
+        - button [ref=e276] [cursor=pointer]
+        - generic [ref=e277] [cursor=pointer]:
+          - generic [ref=e278] [cursor=pointer]: لديك إستفسار؟ تحدث معنا!
+          - generic [ref=e280] [cursor=pointer]: فريقنا بعيد.
+      - generic [ref=e294] [cursor=pointer]:
+        - button "الدردشة مع فريق مساق" [ref=e295] [cursor=pointer]:
+          - generic [ref=e297] [cursor=pointer]: الدردشة مع فريق مساق
+        - button "يبحث" [ref=e298] [cursor=pointer]:
+          - generic [ref=e300] [cursor=pointer]: يبحث
+  - generic [ref=e303]: "0"
+```

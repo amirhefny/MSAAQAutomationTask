@@ -1,0 +1,118 @@
+{
+  "testSuites": {
+    "smoke": {
+      "description": "Quick smoke tests for basic functionality validation",
+      "tags": ["@smoke"],
+      "browsers": ["chromium"],
+      "estimatedDuration": "2-3 minutes",
+      "tests": [
+        "Login functionality",
+        "Basic navigation",
+        "Home page loading"
+      ]
+    },
+    "critical": {
+      "description": "Critical path tests that must pass for core functionality",
+      "tags": ["@critical"],
+      "browsers": ["chromium", "firefox"],
+      "estimatedDuration": "5-8 minutes",
+      "tests": [
+        "User authentication",
+        "Course creation workflow",
+        "Essential navigation paths"
+      ]
+    },
+    "end-to-end": {
+      "description": "Complete workflow tests covering full user journeys",
+      "tags": ["@end-to-end"],
+      "browsers": ["chromium"],
+      "estimatedDuration": "10-15 minutes",
+      "tests": [
+        "Complete course creation and publishing",
+        "User registration to course completion",
+        "Full tenant workflow validation"
+      ]
+    },
+    "ui": {
+      "description": "User interface component and interaction tests",
+      "tags": ["@ui"],
+      "browsers": ["chromium", "firefox", "webkit"],
+      "estimatedDuration": "8-12 minutes",
+      "tests": [
+        "Form interactions",
+        "Button clicks and navigation",
+        "Responsive design elements",
+        "Popup handling"
+      ]
+    },
+    "course-management": {
+      "description": "Tests specific to course creation and management",
+      "tags": ["@course-management"],
+      "browsers": ["chromium", "firefox"],
+      "estimatedDuration": "6-10 minutes",
+      "tests": [
+        "Course creation",
+        "Content addition",
+        "Settings configuration",
+        "Course publishing"
+      ]
+    },
+    "login": {
+      "description": "Authentication and user management tests",
+      "tags": ["@login"],
+      "browsers": ["chromium"],
+      "estimatedDuration": "3-5 minutes",
+      "tests": [
+        "Valid login",
+        "Invalid credentials handling",
+        "Password validation",
+        "Session management"
+      ]
+    },
+    "full": {
+      "description": "Complete test suite covering all functionality",
+      "tags": [],
+      "browsers": ["chromium", "firefox", "webkit"],
+      "estimatedDuration": "20-30 minutes",
+      "tests": [
+        "All test scenarios",
+        "Cross-browser compatibility",
+        "Complete feature coverage"
+      ]
+    }
+  },
+  "tagDefinitions": {
+    "@smoke": "Quick validation tests for basic functionality",
+    "@critical": "Essential tests that must pass for core features",
+    "@end-to-end": "Complete workflow tests covering full user journeys",
+    "@ui": "User interface and interaction tests",
+    "@course-management": "Course creation and management specific tests",
+    "@login": "Authentication and user management tests",
+    "@positive": "Happy path testing scenarios",
+    "@negative": "Error handling and edge case testing",
+    "@performance": "Performance and load testing",
+    "@accessibility": "Accessibility compliance tests",
+    "@mobile": "Mobile-specific test scenarios",
+    "@desktop": "Desktop-specific test scenarios"
+  },
+  "browserConfigurations": {
+    "chromium": {
+      "description": "Chrome/Edge compatible browser",
+      "useCases": ["Primary testing", "Smoke tests", "Critical path"]
+    },
+    "firefox": {
+      "description": "Firefox browser testing",
+      "useCases": ["Cross-browser compatibility", "Critical path"]
+    },
+    "webkit": {
+      "description": "Safari compatible browser",
+      "useCases": ["Cross-browser compatibility", "UI testing"]
+    }
+  },
+  "ciConfiguration": {
+    "parallelJobs": 5,
+    "artifactRetention": "30 days",
+    "failureHandling": "Continue on non-critical failures",
+    "reporting": ["HTML", "Allure", "Screenshots", "Videos", "Traces"]
+  }
+}

@@ -1,0 +1,2111 @@
+
+[2025-08-25T02:41:45.774Z] [INFO] Successfully navigated to: /
+[2025-08-25T02:41:45.775Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T02:41:45.775Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T02:41:45.776Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T02:41:45.943Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T02:41:45.969Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T02:41:45.989Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T02:41:45.990Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T02:41:46.125Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T02:41:46.136Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T02:41:46.146Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T02:41:46.146Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T02:41:46.215Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T02:41:46.216Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T02:41:46.216Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T02:41:49.834Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T02:41:49.834Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T02:41:49.841Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T02:41:50.046Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T02:41:50.049Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T02:41:50.051Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Cypress Course"
+[2025-08-25T02:41:50.206Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T02:41:50.214Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T02:41:50.224Z] [INFO] Filled input: input#:rq:-form-item with "Cypress Course"
+[2025-08-25T02:41:50.224Z] [INFO] 📝 Step: HomePage: Course title "Cypress Course" added successfully
+[2025-08-25T02:41:50.225Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T02:41:50.348Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T02:41:50.360Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T02:41:50.360Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T02:41:50.429Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T02:41:53.429Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T02:41:53.437Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T02:41:53.494Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T02:41:53.494Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T02:41:53.494Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T02:41:53.495Z] [INFO] 📝 Step: 📢 CoursePublishPage: Navigating to course publishing section
+[2025-08-25T02:41:53.571Z] [INFO] Successfully clicked element: a#radix-:r2p:-trigger-/courses/[courseId]/publishing
+[2025-08-25T02:41:53.572Z] [INFO] 📝 Step: 📢 CoursePublishPage: Enabling publish course checkbox
+[2025-08-25T02:41:54.410Z] [INFO] Successfully clicked element: button#:r4a:-form-item
+[2025-08-25T02:41:54.410Z] [INFO] 📝 Step: 📢 CoursePublishPage: Submitting course for publishing
+[2025-08-25T02:41:54.482Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T02:41:54.483Z] [INFO] 📝 Step: 📢 CoursePublishPage: Course published successfully
+[2025-08-25T02:41:54.484Z] [INFO] 📝 Step: 🏢 TenantHomePage: Opening tenant page in new tab
+[2025-08-25T02:41:54.485Z] [INFO] 📝 Step: 🏢 TenantHomePage: Opening new tab and navigating to tenant page
+[2025-08-25T02:41:57.598Z] [INFO] Successfully opened https://qa-test.misklms.com/ in new tab
+[2025-08-25T02:41:57.599Z] [INFO] Successfully switched to new tab with URL: https://qa-test.misklms.com/
+[2025-08-25T02:41:57.599Z] [INFO] 📝 Step: 🏢 TenantHomePage: Successfully opened tenant page in new tab
+[2025-08-25T03:07:07.155Z] [INFO] Successfully navigated to: /
+[2025-08-25T03:07:07.156Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T03:07:07.156Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T03:07:07.157Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T03:07:07.281Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T03:07:07.289Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T03:07:07.302Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T03:07:07.304Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T03:07:07.396Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T03:07:07.402Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T03:07:07.410Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T03:07:07.410Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T03:07:07.466Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T03:07:07.466Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T09:57:43.797Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T09:58:11.322Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T09:58:34.230Z] [INFO] Successfully navigated to: /
+[2025-08-25T09:58:34.231Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T09:58:34.231Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T09:58:34.232Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T09:58:34.371Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T09:58:34.385Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T09:58:34.401Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T09:58:34.402Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T09:58:34.499Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T09:58:34.509Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T09:58:34.521Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T09:58:34.522Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T09:58:34.593Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T09:58:34.594Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T09:59:30.673Z] [INFO] Successfully navigated to: /
+[2025-08-25T09:59:30.674Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T09:59:30.675Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T09:59:30.676Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T09:59:30.833Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T09:59:30.848Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T09:59:30.866Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T09:59:30.866Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T09:59:30.964Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T09:59:30.975Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T09:59:30.987Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T09:59:30.987Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T09:59:31.053Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T09:59:31.054Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:00:09.826Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T10:00:56.041Z] [INFO] Successfully navigated to: /
+[2025-08-25T10:00:56.043Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:00:56.043Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:00:56.043Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:00:56.198Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:00:56.212Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:00:56.229Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:00:56.231Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:00:56.349Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:00:56.360Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:00:56.371Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:00:56.372Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:00:56.435Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:00:56.436Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:02:36.017Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T10:03:54.922Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T10:03:54.928Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:03:54.930Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:03:54.933Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:03:55.080Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:03:55.093Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:03:55.109Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:03:55.110Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:03:55.212Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:03:55.221Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:03:55.235Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:03:55.235Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:03:55.301Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:03:55.302Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:03:55.303Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:03:59.594Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:03:59.595Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:03:59.596Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T10:03:59.782Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T10:03:59.783Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T10:03:59.783Z] [INFO] 📝 Step: 🧪 Test Execution: Clicking course title input
+[2025-08-25T10:03:59.784Z] [INFO] 📝 Step: 🏠 HomePage: Clicking course title input
+[2025-08-25T10:04:00.136Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T10:04:00.137Z] [INFO] 📝 Step: 🏠 HomePage: Course title input clicked successfully
+[2025-08-25T10:04:00.137Z] [INFO] 📝 Step: 🧪 Test Execution: Adding course title
+[2025-08-25T10:04:00.138Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course Title"
+[2025-08-25T10:04:00.287Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T10:04:00.301Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T10:04:00.316Z] [INFO] Filled input: input#:rq:-form-item with "Test Course Title"
+[2025-08-25T10:04:00.317Z] [INFO] 📝 Step: HomePage: Course title "Test Course Title" added successfully
+[2025-08-25T10:04:00.317Z] [INFO] 📝 Step: 🧪 Test Execution: Verifying title was entered
+[2025-08-25T10:04:00.318Z] [INFO] 📝 Step: 🧪 Test Execution: Course title input test completed successfully
+[2025-08-25T10:04:16.147Z] [INFO] Successfully navigated to: /
+[2025-08-25T10:04:16.148Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:04:16.149Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:04:16.149Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:04:16.280Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:04:16.292Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:04:16.308Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:04:16.309Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:04:16.430Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:04:16.442Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:04:16.454Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:04:16.454Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:04:16.517Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:04:16.517Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:04:16.518Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:04:22.144Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:04:22.165Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:04:22.173Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T10:04:22.603Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T10:04:22.603Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T10:15:01.354Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T10:15:01.421Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:15:01.607Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:15:01.680Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:15:02.488Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T10:15:02.774Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:15:02.936Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:15:03.049Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:15:04.161Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:15:04.327Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:15:04.366Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:15:04.421Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:15:04.645Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T10:15:04.725Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:15:04.765Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:15:04.803Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:15:05.235Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:15:05.281Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:15:05.680Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:15:05.890Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:15:06.090Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:15:06.193Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:15:06.525Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:15:06.543Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:15:07.126Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:15:07.193Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:15:07.224Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:15:07.284Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:15:07.576Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:15:07.522Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:15:07.662Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:15:07.786Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:15:07.901Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:15:07.908Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:15:07.937Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:15:08.028Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:15:08.125Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:15:08.138Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:15:08.315Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:15:08.337Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:15:08.404Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:15:08.662Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:15:08.690Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:15:08.715Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:15:17.788Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:15:18.028Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:15:18.483Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:15:18.557Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:16:18.167Z] [INFO] Successfully navigated to: /
+[2025-08-25T10:16:18.168Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:16:18.169Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:16:18.169Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:16:18.314Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:16:18.326Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:16:18.342Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:16:18.343Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:16:18.446Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:16:18.457Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:16:18.468Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:16:18.469Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:16:18.534Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:16:18.535Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:16:18.535Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:16:23.092Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:16:23.093Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:17:34.647Z] [INFO] Successfully navigated to: /
+[2025-08-25T10:17:34.648Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:17:34.649Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:17:34.650Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:17:34.814Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:17:34.828Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:17:34.842Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:17:34.843Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:17:34.943Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:17:34.954Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:17:34.965Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:17:34.965Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:17:35.034Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:17:35.034Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:17:35.035Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:17:41.560Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:17:41.563Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:42:26.331Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T10:42:26.333Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:42:26.333Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:42:26.333Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:42:52.098Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:42:52.185Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:42:52.211Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:42:52.219Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:42:52.341Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:42:52.354Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:42:52.366Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:42:52.367Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:42:52.429Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:42:52.429Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:42:52.429Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:43:01.636Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:43:01.636Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:43:30.876Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T10:43:30.878Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:43:30.879Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:43:30.881Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:43:31.040Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:43:31.053Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:43:31.071Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:43:31.074Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:43:31.201Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:43:31.220Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:43:31.238Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:43:31.238Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:43:31.338Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:43:31.339Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:43:31.340Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:43:36.748Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:43:36.748Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:43:36.751Z] [INFO] 📝 Step: 🧪 Test Execution: Adding new course
+[2025-08-25T10:43:36.752Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T10:43:36.945Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T10:43:36.945Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T10:43:36.946Z] [INFO] 📝 Step: 🧪 Test Execution: Adding course title
+[2025-08-25T10:43:36.947Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T10:43:37.171Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T10:43:37.191Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T10:43:37.205Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T10:43:37.205Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T10:43:37.206Z] [INFO] 📝 Step: 🧪 Test Execution: Selecting course type
+[2025-08-25T10:43:37.206Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T10:43:37.281Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T10:43:37.293Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T10:43:37.293Z] [INFO] 📝 Step: 🧪 Test Execution: Submitting course
+[2025-08-25T10:43:37.294Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T10:43:37.367Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T10:43:40.368Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T10:43:40.467Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T10:43:40.539Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T10:43:40.539Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T10:43:40.540Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T10:43:40.540Z] [INFO] 📝 Step: 🧪 Test Execution: Course submission test completed successfully
+[2025-08-25T10:46:10.375Z] [INFO] Successfully navigated to: /
+[2025-08-25T10:46:10.377Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:46:10.379Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:46:10.380Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:46:10.536Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:46:10.549Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:46:10.564Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:46:10.565Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:46:10.668Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:46:10.679Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:46:10.691Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:46:10.691Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:46:10.757Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:46:10.758Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:46:10.758Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:46:14.277Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:46:14.278Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:46:14.279Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T10:46:14.574Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T10:46:14.574Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T10:46:14.575Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T10:46:15.002Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T10:46:15.016Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T10:46:15.027Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T10:46:15.028Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T10:46:15.028Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T10:46:15.120Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T10:46:15.131Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T10:46:15.132Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T10:46:15.210Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T10:46:18.212Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T10:46:18.232Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T10:46:18.302Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T10:46:18.302Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T10:46:18.303Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T10:46:52.530Z] [INFO] Successfully navigated to: /
+[2025-08-25T10:46:52.531Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:46:52.531Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:46:52.531Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:46:52.669Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:46:52.683Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:46:52.700Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:46:52.700Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:46:52.802Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:46:52.812Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:46:52.825Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:46:52.826Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:46:52.889Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:46:52.889Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:46:52.890Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:46:56.388Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:46:56.388Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:46:56.389Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T10:46:56.584Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T10:46:56.584Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T10:46:56.585Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T10:46:56.751Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T10:46:56.764Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T10:46:56.776Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T10:46:56.777Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T10:46:56.778Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T10:46:56.997Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T10:46:57.008Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T10:46:57.009Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T10:46:57.165Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T10:47:00.168Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T10:47:00.177Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T10:47:00.253Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T10:47:00.253Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T10:47:00.254Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T10:47:00.255Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T10:47:00.344Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:47:00.345Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T10:47:00.346Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T10:47:00.534Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T10:47:00.554Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T10:47:00.563Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T10:47:00.563Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T10:47:00.564Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T10:47:00.652Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:47:00.653Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T10:47:00.653Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T10:47:01.516Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T10:47:01.517Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T10:52:37.113Z] [INFO] Successfully navigated to: /
+[2025-08-25T10:52:37.114Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T10:52:37.115Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:52:37.115Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:52:37.264Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T10:52:37.279Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T10:52:37.336Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T10:52:37.337Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T10:52:37.445Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T10:52:37.455Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T10:52:37.467Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T10:52:37.467Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T10:52:37.534Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:52:37.534Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T10:52:37.535Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T10:52:42.127Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:52:42.127Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T10:52:42.129Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T10:52:42.328Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T10:52:42.329Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T10:52:42.329Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T10:52:42.577Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T10:52:42.593Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T10:52:42.604Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T10:52:42.605Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T10:52:42.605Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T10:52:42.687Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T10:52:42.699Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T10:52:42.700Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T10:52:42.785Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T10:52:45.785Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T10:52:45.793Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T10:52:45.861Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T10:52:45.862Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T10:52:45.862Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T10:52:45.862Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T10:52:45.965Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:52:45.965Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T10:52:45.966Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T10:52:46.159Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T10:52:46.168Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T10:52:46.177Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T10:52:46.177Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T10:52:46.178Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T10:52:46.265Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:52:46.265Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T10:52:46.266Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T10:52:47.647Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T10:52:47.648Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T10:52:47.649Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T10:52:47.731Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:52:47.732Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T10:52:47.962Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T10:52:47.978Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T10:52:47.992Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T10:52:47.993Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T10:52:47.993Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T10:52:48.091Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T10:52:48.092Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T10:52:51.721Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T11:01:02.155Z] [INFO] Successfully navigated to: /
+[2025-08-25T11:01:02.157Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T11:01:02.157Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:01:02.158Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:01:02.310Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T11:01:02.326Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T11:01:02.349Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T11:01:02.351Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T11:01:02.458Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T11:01:02.469Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T11:01:02.481Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T11:01:02.481Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T11:01:02.546Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:01:02.547Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:01:02.548Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T11:01:07.127Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:01:07.128Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T11:01:07.128Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T11:01:07.297Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T11:01:07.298Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T11:01:07.298Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T11:01:07.508Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T11:01:07.521Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T11:01:07.534Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T11:01:07.535Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T11:01:07.536Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T11:01:07.624Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T11:01:07.637Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T11:01:07.637Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T11:01:07.749Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T11:01:10.751Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T11:01:10.760Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T11:01:10.825Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T11:01:10.825Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T11:01:10.826Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T11:01:10.826Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T11:01:10.933Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:01:10.934Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T11:01:10.935Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T11:01:11.090Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T11:01:11.102Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T11:01:11.111Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T11:01:11.112Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T11:01:11.112Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T11:01:11.195Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:01:11.195Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T11:01:11.196Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T11:01:12.667Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T11:01:12.667Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T11:01:12.669Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T11:01:12.747Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:01:12.748Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T11:01:13.089Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T11:01:13.101Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T11:01:13.111Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T11:01:13.111Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T11:01:13.112Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T11:01:13.208Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:01:13.208Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T11:01:15.768Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T11:01:17.771Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling retake exam option
+[2025-08-25T11:01:18.835Z] [INFO] Successfully clicked element: button#:r5s:-form-item
+[2025-08-25T11:01:18.836Z] [INFO] 📝 Step: 📝 CoursePartsPage: Retake exam option enabled successfully
+[2025-08-25T11:01:18.935Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:01:18.936Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T11:01:28.960Z] [ERROR] Go back failed {
+  "error": "TimeoutError: page.goBack: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for navigation until \"networkidle\"\u001b[22m\n\u001b[2m    - navigated to \"https://app.misklms.com/courses/869/chapters\"\u001b[22m\n"
+}
+[2025-08-25T11:02:19.898Z] [INFO] Successfully navigated to: /
+[2025-08-25T11:02:19.900Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T11:02:19.900Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:02:19.901Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:02:20.093Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T11:02:20.107Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T11:02:20.122Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T11:02:20.123Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T11:02:20.240Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T11:02:20.251Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T11:02:20.263Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T11:02:20.263Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T11:02:20.328Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:02:20.328Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:02:20.329Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T11:02:24.229Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:02:24.231Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T11:02:24.235Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T11:02:24.428Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T11:02:24.429Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T11:02:24.429Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T11:02:24.819Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T11:02:24.838Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T11:02:24.857Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T11:02:24.858Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T11:02:24.859Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T11:02:24.949Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T11:02:24.962Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T11:02:24.962Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T11:02:25.048Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T11:02:28.050Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T11:02:28.066Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T11:02:28.141Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T11:02:28.141Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T11:02:28.142Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T11:02:28.142Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T11:02:28.214Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:02:28.215Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T11:02:28.215Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T11:02:28.422Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T11:02:28.434Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T11:02:28.445Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T11:02:28.445Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T11:02:28.446Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T11:02:28.543Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:02:28.543Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T11:02:28.544Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T11:02:29.921Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T11:02:29.921Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T11:02:29.922Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T11:02:30.036Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:02:30.037Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T11:02:30.190Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T11:02:30.202Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T11:02:30.214Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T11:02:30.215Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T11:02:30.216Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T11:02:30.304Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:02:30.305Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T11:02:32.945Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T11:02:34.947Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling retake exam option
+[2025-08-25T11:02:36.008Z] [INFO] Successfully clicked element: button#:r5s:-form-item
+[2025-08-25T11:02:36.008Z] [INFO] 📝 Step: 📝 CoursePartsPage: Retake exam option enabled successfully
+[2025-08-25T11:02:36.157Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:02:36.158Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T11:02:46.179Z] [ERROR] Go back failed {
+  "error": "TimeoutError: page.goBack: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for navigation until \"networkidle\"\u001b[22m\n\u001b[2m    - navigated to \"https://app.misklms.com/courses/870/chapters\"\u001b[22m\n"
+}
+[2025-08-25T11:04:03.243Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T11:04:03.244Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T11:04:03.245Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:04:03.245Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:04:03.425Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T11:04:03.442Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T11:04:03.458Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T11:04:03.459Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T11:04:03.639Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T11:04:03.652Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T11:04:03.665Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T11:04:03.666Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T11:04:03.743Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:04:03.744Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:04:03.744Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T11:04:09.422Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:04:09.424Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T11:04:09.424Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T11:04:09.752Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T11:04:09.759Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T11:04:09.765Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T11:04:10.519Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T11:04:10.554Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T11:04:10.590Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T11:04:10.594Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T11:04:10.596Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T11:04:10.795Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T11:04:10.832Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T11:04:10.833Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T11:04:10.991Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T11:04:13.993Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T11:04:14.012Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T11:04:14.089Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T11:04:14.089Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T11:04:14.090Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T11:04:14.090Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T11:04:14.162Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:04:14.163Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T11:04:14.164Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T11:04:14.354Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T11:04:14.365Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T11:04:14.377Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T11:04:14.379Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T11:04:14.379Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T11:04:14.471Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:04:14.472Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T11:04:14.473Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T11:04:15.420Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T11:04:15.421Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T11:04:15.422Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T11:04:15.509Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:04:15.509Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T11:04:15.754Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T11:04:15.765Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T11:04:15.775Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T11:04:15.776Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T11:04:15.776Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T11:04:15.851Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:04:15.852Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T11:04:18.515Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T11:04:18.515Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling random question option
+[2025-08-25T11:04:20.662Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:04:20.663Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T11:04:30.684Z] [ERROR] Go back failed {
+  "error": "TimeoutError: page.goBack: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for navigation until \"networkidle\"\u001b[22m\n\u001b[2m    - navigated to \"https://app.misklms.com/courses/871/chapters\"\u001b[22m\n"
+}
+[2025-08-25T11:05:09.624Z] [INFO] Successfully navigated to: /
+[2025-08-25T11:05:09.625Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T11:05:09.626Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:05:09.626Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:05:09.788Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T11:05:09.800Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T11:05:09.855Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T11:05:09.863Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T11:05:09.970Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T11:05:09.981Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T11:05:09.992Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T11:05:09.993Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T11:05:10.058Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:05:10.058Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:05:10.059Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T11:05:15.038Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:05:15.038Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T11:05:15.039Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T11:05:15.253Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T11:05:15.254Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T11:05:15.255Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T11:05:15.420Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T11:05:15.435Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T11:05:15.449Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T11:05:15.451Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T11:05:15.452Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T11:05:15.896Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T11:05:15.908Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T11:05:15.908Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T11:05:15.976Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T11:05:18.977Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T11:05:18.989Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T11:05:19.090Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T11:05:19.090Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T11:05:19.091Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T11:05:19.091Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T11:05:19.216Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:05:19.216Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T11:05:19.217Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T11:05:19.552Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T11:05:19.563Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T11:05:19.575Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T11:05:19.576Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T11:05:19.577Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T11:05:19.677Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:05:19.677Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T11:05:19.678Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T11:05:21.550Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T11:05:21.551Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T11:05:21.552Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T11:05:21.624Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:05:21.624Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T11:05:21.883Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T11:05:21.893Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T11:05:21.903Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T11:05:21.903Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T11:05:21.904Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T11:05:21.984Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:05:21.986Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T11:05:25.099Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T11:05:25.100Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling random question option
+[2025-08-25T11:05:29.139Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling retake exam option
+[2025-08-25T11:05:30.200Z] [INFO] Successfully clicked element: button#:r5s:-form-item
+[2025-08-25T11:05:30.201Z] [INFO] 📝 Step: 📝 CoursePartsPage: Retake exam option enabled successfully
+[2025-08-25T11:05:30.311Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:05:30.312Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T11:05:40.332Z] [ERROR] Go back failed {
+  "error": "TimeoutError: page.goBack: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for navigation until \"networkidle\"\u001b[22m\n\u001b[2m    - navigated to \"https://app.misklms.com/courses/872/chapters\"\u001b[22m\n"
+}
+[2025-08-25T11:44:32.262Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T11:44:32.264Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T11:44:32.264Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:44:32.264Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:44:34.890Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T11:44:34.901Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T11:44:34.919Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T11:44:34.922Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T11:44:35.024Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T11:44:35.037Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T11:44:35.050Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T11:44:35.052Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T11:44:35.127Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:44:35.127Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:44:35.128Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T11:44:40.352Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:44:40.353Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T11:44:40.355Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T11:44:40.573Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T11:44:40.581Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T11:44:40.582Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T11:44:40.753Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T11:44:40.769Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T11:44:40.783Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T11:44:40.786Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T11:44:40.789Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T11:44:40.880Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T11:44:40.891Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T11:44:40.892Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T11:44:40.968Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T11:44:43.969Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T11:44:43.978Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T11:44:44.057Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T11:44:44.057Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T11:44:44.058Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T11:44:44.058Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T11:44:44.146Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:44:44.147Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T11:44:44.148Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T11:44:44.370Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T11:44:44.384Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T11:44:44.394Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T11:44:44.394Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T11:44:44.395Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T11:44:44.489Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:44:44.489Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T11:44:44.490Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T11:44:45.850Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T11:44:45.850Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T11:44:45.851Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T11:44:45.923Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:44:45.924Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T11:44:46.135Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T11:44:46.146Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T11:44:46.156Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T11:44:46.157Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T11:44:46.157Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T11:44:46.235Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:44:46.236Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T11:44:49.325Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T11:44:49.326Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling random question option
+[2025-08-25T11:45:40.100Z] [INFO] Successfully navigated to: /
+[2025-08-25T11:45:40.102Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T11:45:40.103Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:45:40.104Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:45:40.254Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T11:45:40.267Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T11:45:40.283Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T11:45:40.284Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T11:45:40.438Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T11:45:40.451Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T11:45:40.461Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T11:45:40.462Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T11:45:40.525Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:45:40.526Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T11:45:40.526Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T11:45:45.023Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:45:45.024Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T11:45:45.024Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T11:45:45.223Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T11:45:45.223Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T11:45:45.224Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T11:45:45.435Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T11:45:45.455Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T11:45:45.468Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T11:45:45.468Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T11:45:45.469Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T11:45:45.543Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T11:45:45.555Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T11:45:45.555Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T11:45:45.632Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T11:45:48.633Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T11:45:48.642Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T11:45:48.721Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T11:45:48.722Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T11:45:48.722Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T11:45:48.722Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T11:45:48.811Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:45:48.812Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T11:45:48.814Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T11:45:49.001Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T11:45:49.014Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T11:45:49.027Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T11:45:49.028Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T11:45:49.029Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T11:45:49.125Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:45:49.126Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T11:45:49.126Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T11:45:51.046Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T11:45:51.047Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T11:45:51.048Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T11:45:51.122Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:45:51.122Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T11:45:51.317Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T11:45:51.328Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T11:45:51.345Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T11:45:51.346Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T11:45:51.347Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T11:45:51.437Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T11:45:51.437Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T11:45:54.008Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T11:45:54.008Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling random question option
+[2025-08-25T11:45:58.043Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling retake exam option
+[2025-08-25T11:45:59.098Z] [INFO] Successfully clicked element: button#:r5s:-form-item
+[2025-08-25T11:45:59.099Z] [INFO] 📝 Step: 📝 CoursePartsPage: Retake exam option enabled successfully
+[2025-08-25T14:29:14.390Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T14:29:14.392Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T14:29:14.392Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T14:29:14.392Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T14:29:14.535Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T14:29:14.549Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T14:29:14.573Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T14:29:14.580Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T14:29:14.681Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T14:29:14.690Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T14:29:14.709Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T14:29:14.711Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T14:29:14.771Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T14:29:14.772Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T14:29:14.772Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T14:29:23.652Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T14:29:23.653Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T14:29:23.654Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T14:29:23.903Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T14:29:23.904Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T14:29:23.905Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T14:29:24.118Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T14:29:24.144Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T14:29:24.170Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T14:29:24.171Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T14:29:24.172Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T14:29:24.264Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T14:29:24.276Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T14:29:24.277Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T14:29:24.372Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T14:29:27.373Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T14:29:27.689Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T14:29:28.233Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T14:29:28.234Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T14:29:28.234Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T14:29:28.235Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T14:29:28.349Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T14:29:28.356Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T14:29:28.357Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T14:29:28.516Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T14:29:28.532Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T14:29:28.545Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T14:29:28.546Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T14:29:28.546Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T14:29:28.633Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T14:29:28.634Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T14:29:28.635Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T14:29:32.532Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T14:29:32.533Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T14:29:32.535Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T14:29:32.624Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T14:29:32.625Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T14:29:32.964Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T14:29:32.995Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T14:29:33.009Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T14:29:33.011Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T14:29:33.012Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T14:29:33.114Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T14:29:33.129Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T14:29:38.275Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T14:29:38.278Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling random question option
+[2025-08-25T14:29:40.426Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T14:29:40.426Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T14:29:42.912Z] [INFO] Successfully went back in browser history
+[2025-08-25T14:29:42.913Z] [INFO] 📝 Step: Go back to the course parts page
+[2025-08-25T17:06:00.408Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T17:06:00.411Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:06:00.412Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:06:00.413Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:06:23.493Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:06:23.608Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:06:23.621Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:06:23.621Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:06:23.754Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:06:23.765Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:06:23.775Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:06:23.775Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:06:23.860Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:06:23.862Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:06:23.867Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:06:34.005Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:06:34.005Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:06:34.007Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:06:34.160Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:06:34.160Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:06:34.161Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:06:34.385Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T17:06:34.393Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T17:06:34.401Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T17:06:34.401Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:06:34.402Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:06:34.457Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:06:34.501Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:06:34.502Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:06:34.641Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:06:37.642Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:06:37.692Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:06:37.736Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:06:37.736Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:06:37.736Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:06:37.736Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T17:06:37.792Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:06:37.792Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T17:06:37.793Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T17:06:37.985Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T17:06:37.995Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T17:06:38.001Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T17:06:38.001Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T17:06:38.001Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T17:06:38.062Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:06:38.063Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T17:06:38.063Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T17:06:39.144Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T17:06:39.144Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T17:06:39.145Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T17:06:39.238Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:06:39.238Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T17:06:39.433Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T17:06:39.440Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T17:06:39.449Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T17:06:39.449Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T17:06:39.449Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T17:06:39.509Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:06:39.509Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T17:06:42.082Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T17:06:44.083Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling retake exam option
+[2025-08-25T17:06:45.163Z] [INFO] Successfully clicked element: button#:r66:-form-item
+[2025-08-25T17:06:45.164Z] [INFO] 📝 Step: 📝 CoursePartsPage: Retake exam option enabled successfully
+[2025-08-25T17:06:45.254Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:06:45.254Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T17:06:45.314Z] [INFO] Successfully went back in browser history
+[2025-08-25T17:06:45.315Z] [INFO] 📝 Step: Go back to the course parts page
+[2025-08-25T17:07:04.160Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:07:04.161Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:07:04.161Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:07:04.161Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:07:04.268Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:07:04.275Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:07:04.314Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:07:04.314Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:07:04.408Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:07:04.419Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:07:04.427Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:07:04.428Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:07:04.490Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:07:04.490Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:07:04.490Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:07:07.567Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:07:07.568Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:07:07.568Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:07:07.875Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:07:07.876Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:07:07.876Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:07:08.119Z] [INFO] Successfully clicked element: input#:r1d:-form-item
+[2025-08-25T17:07:08.127Z] [INFO] Successfully cleared input: input#:r1d:-form-item
+[2025-08-25T17:07:08.136Z] [INFO] Filled input: input#:r1d:-form-item with "Test Course"
+[2025-08-25T17:07:08.136Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:07:08.136Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:07:08.191Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:07:08.202Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:07:08.202Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:07:08.255Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:07:11.256Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:07:11.264Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:07:11.339Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:07:11.339Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:07:11.340Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:07:11.340Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T17:07:11.409Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:07:11.409Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T17:07:11.410Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T17:07:11.650Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T17:07:11.657Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T17:07:11.665Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T17:07:11.665Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T17:07:11.666Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T17:07:11.767Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:07:11.767Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T17:07:11.767Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T17:07:12.828Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T17:07:12.829Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T17:07:12.832Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T17:07:12.904Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:07:12.905Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T17:07:13.117Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T17:07:13.124Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T17:07:13.131Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T17:07:13.131Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T17:07:13.132Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T17:07:13.193Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:07:13.194Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T17:07:16.238Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T17:07:16.239Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling random question option
+[2025-08-25T17:07:20.270Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling retake exam option
+[2025-08-25T17:07:21.334Z] [INFO] Successfully clicked element: button#:r66:-form-item
+[2025-08-25T17:07:21.335Z] [INFO] 📝 Step: 📝 CoursePartsPage: Retake exam option enabled successfully
+[2025-08-25T17:07:21.419Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:07:21.419Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T17:07:31.447Z] [ERROR] Go back failed {
+  "error": "TimeoutError: page.goBack: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for navigation until \"networkidle\"\u001b[22m\n\u001b[2m    - navigated to \"https://app.misklms.com/courses/877/chapters\"\u001b[22m\n"
+}
+[2025-08-25T17:08:16.874Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:08:16.876Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:08:16.876Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:08:16.877Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:08:16.974Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:08:16.981Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:08:16.991Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:08:16.991Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:08:17.074Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:08:17.083Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:08:17.096Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:08:17.097Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:08:17.160Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:08:17.160Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:08:17.160Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:08:20.932Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:08:20.932Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:08:20.934Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:08:21.227Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:08:21.227Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:08:21.227Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:08:21.441Z] [INFO] Successfully clicked element: input#:r1d:-form-item
+[2025-08-25T17:08:21.450Z] [INFO] Successfully cleared input: input#:r1d:-form-item
+[2025-08-25T17:08:21.458Z] [INFO] Filled input: input#:r1d:-form-item with "Test Course"
+[2025-08-25T17:08:21.459Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:08:21.459Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:08:21.512Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:08:21.522Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:08:21.522Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:08:21.577Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:08:24.577Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:08:24.583Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:08:24.640Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:08:24.640Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:08:24.641Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:08:24.641Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T17:08:24.712Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:08:24.712Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T17:08:24.713Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T17:08:24.937Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T17:08:24.943Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T17:08:24.949Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T17:08:24.950Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T17:08:24.951Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T17:08:25.017Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:08:25.017Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T17:08:25.017Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T17:08:25.900Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T17:08:25.900Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T17:08:25.902Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T17:08:25.992Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:08:25.992Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T17:08:26.238Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T17:08:26.247Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T17:08:26.254Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T17:08:26.255Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T17:08:26.256Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T17:08:26.316Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:08:26.317Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T17:08:28.285Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T17:08:28.285Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling random question option
+[2025-08-25T17:08:32.313Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling retake exam option
+[2025-08-25T17:08:33.374Z] [INFO] Successfully clicked element: button#:r5s:-form-item
+[2025-08-25T17:08:33.374Z] [INFO] 📝 Step: 📝 CoursePartsPage: Retake exam option enabled successfully
+[2025-08-25T17:08:33.460Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:08:33.461Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T17:08:45.488Z] [ERROR] Go back failed {
+  "error": "TimeoutError: page.goBack: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for navigation until \"networkidle\"\u001b[22m\n\u001b[2m    - navigated to \"https://app.misklms.com/courses/878/chapters\"\u001b[22m\n"
+}
+[2025-08-25T17:13:48.129Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:13:48.133Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:13:48.134Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:13:48.134Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:13:48.249Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:13:48.258Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:13:48.282Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:13:48.285Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:13:48.398Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:13:48.405Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:13:48.414Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:13:48.414Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:13:48.467Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:13:48.467Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:13:48.467Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:13:51.775Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:13:51.776Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:13:51.777Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:13:51.973Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:13:51.974Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:13:51.975Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:13:52.214Z] [INFO] Successfully clicked element: input#:r1d:-form-item
+[2025-08-25T17:13:52.226Z] [INFO] Successfully cleared input: input#:r1d:-form-item
+[2025-08-25T17:13:52.238Z] [INFO] Filled input: input#:r1d:-form-item with "Test Course"
+[2025-08-25T17:13:52.239Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:13:52.240Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:13:52.331Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:13:52.339Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:13:52.339Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:13:52.437Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:13:55.437Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:13:55.486Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:13:55.551Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:13:55.552Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:13:55.553Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:13:55.553Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T17:13:55.636Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:13:55.636Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T17:13:55.637Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T17:13:55.845Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T17:13:55.852Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T17:13:55.859Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T17:13:55.859Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T17:13:55.860Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T17:13:55.926Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:13:55.927Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T17:13:55.927Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T17:13:56.856Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T17:13:56.856Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T17:13:56.857Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T17:13:56.950Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:13:56.951Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T17:13:57.180Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T17:13:57.189Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T17:13:57.200Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T17:13:57.200Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T17:13:57.201Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T17:13:57.271Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:13:57.271Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T17:13:59.344Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T17:13:59.345Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling random question option
+[2025-08-25T17:14:03.372Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling retake exam option
+[2025-08-25T17:14:04.422Z] [INFO] Successfully clicked element: button#:r5s:-form-item
+[2025-08-25T17:14:04.423Z] [INFO] 📝 Step: 📝 CoursePartsPage: Retake exam option enabled successfully
+[2025-08-25T17:14:04.519Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:14:04.520Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T17:14:06.601Z] [INFO] 📝 Step: Go back to the course parts page
+[2025-08-25T17:14:31.680Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:14:31.681Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:14:31.683Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:14:31.684Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:14:31.815Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:14:31.823Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:14:31.835Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:14:31.836Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:14:31.951Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:14:31.965Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:14:31.977Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:14:31.980Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:14:32.049Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:14:32.050Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:14:32.050Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:14:35.814Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:14:35.815Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:14:35.816Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:14:36.118Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:14:36.119Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:14:36.120Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:14:36.396Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T17:14:36.404Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T17:14:36.416Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T17:14:36.416Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:14:36.417Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:14:36.486Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:14:36.497Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:14:36.498Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:14:36.583Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:14:39.583Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:14:39.629Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:14:39.679Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:14:39.679Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:14:39.680Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:14:39.680Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T17:14:39.735Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:14:39.735Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T17:14:39.735Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T17:14:39.977Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T17:14:39.984Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T17:14:39.992Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T17:14:39.993Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T17:14:39.993Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T17:14:40.060Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:14:40.060Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T17:14:40.060Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T17:14:40.904Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T17:14:40.905Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T17:14:40.906Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T17:14:41.000Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:14:41.001Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T17:14:41.245Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T17:14:41.255Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T17:14:41.265Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T17:14:41.265Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T17:14:41.266Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T17:14:41.338Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:14:41.339Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T17:14:43.739Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T17:14:43.740Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling random question option
+[2025-08-25T17:14:45.860Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:14:45.861Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T17:14:47.968Z] [INFO] 📝 Step: Go back to the course parts page
+[2025-08-25T17:15:30.711Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T17:15:30.713Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:15:30.714Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:15:30.714Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:16:18.964Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:16:18.981Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:16:18.993Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:16:18.994Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:16:19.112Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:16:19.130Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:16:19.147Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:16:19.148Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:16:19.222Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:16:19.224Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:16:19.224Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:16:33.049Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:16:33.050Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:16:33.050Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:16:33.365Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:16:33.366Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:16:33.367Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:16:33.579Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T17:16:33.591Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T17:16:33.601Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T17:16:33.601Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:16:33.601Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:16:33.666Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:16:33.676Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:16:33.677Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:16:33.799Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:16:36.800Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:16:36.810Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:16:39.444Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:16:39.444Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:16:39.444Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:16:39.445Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T17:16:39.515Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:16:39.515Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T17:16:39.516Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T17:16:39.708Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T17:16:39.716Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T17:16:39.723Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T17:16:39.723Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T17:16:39.724Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T17:16:39.801Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:16:39.801Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T17:16:39.802Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T17:16:41.683Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T17:16:41.683Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T17:16:41.684Z] [INFO] 📝 Step: 🧪 Test Execution: Accessing exam additional settings
+[2025-08-25T17:16:41.685Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T17:16:41.782Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:16:41.783Z] [INFO] 📝 Step: 🧪 Test Execution: Adding exam title
+[2025-08-25T17:16:41.783Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T17:16:42.007Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T17:16:42.014Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T17:16:42.024Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T17:16:42.025Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T17:16:42.026Z] [INFO] 📝 Step: 🧪 Test Execution: Submitting the exam
+[2025-08-25T17:16:42.026Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T17:16:42.083Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:16:42.083Z] [INFO] 📝 Step: 🧪 Test Execution: Clicking on exam additional settings
+[2025-08-25T17:16:42.083Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T17:17:00.788Z] [WARN] Click attempt 1 failed, retrying... h3.text-xl
+[2025-08-25T17:17:21.189Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:17:21.190Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:17:21.191Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:17:21.191Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:17:21.291Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:17:21.298Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:17:21.316Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:17:21.317Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:17:21.391Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:17:21.397Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:17:21.403Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:17:21.404Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:17:21.462Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:17:21.463Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:17:21.464Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:17:24.454Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:17:24.457Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:17:24.457Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:17:24.798Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:17:24.798Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:17:24.799Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:17:25.009Z] [INFO] Successfully clicked element: input#:r1d:-form-item
+[2025-08-25T17:17:25.021Z] [INFO] Successfully cleared input: input#:r1d:-form-item
+[2025-08-25T17:17:25.030Z] [INFO] Filled input: input#:r1d:-form-item with "Test Course"
+[2025-08-25T17:17:25.030Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:17:25.031Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:17:25.097Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:17:25.107Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:17:25.107Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:17:25.162Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:17:28.163Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:17:28.186Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:17:28.258Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:17:28.259Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:17:28.259Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:17:28.260Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T17:17:28.329Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:17:28.330Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T17:17:28.330Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T17:17:28.524Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T17:17:28.531Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T17:17:28.538Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T17:17:28.539Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T17:17:28.539Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T17:17:28.603Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:17:28.604Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T17:17:28.605Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T17:17:30.450Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T17:17:30.451Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T17:17:30.451Z] [INFO] 📝 Step: 🧪 Test Execution: Accessing exam additional settings
+[2025-08-25T17:17:30.452Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T17:17:30.545Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:17:30.545Z] [INFO] 📝 Step: 🧪 Test Execution: Adding exam title
+[2025-08-25T17:17:30.546Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T17:17:30.772Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T17:17:30.782Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T17:17:30.793Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T17:17:30.794Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T17:17:30.794Z] [INFO] 📝 Step: 🧪 Test Execution: Submitting the exam
+[2025-08-25T17:17:30.795Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T17:17:30.872Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:17:30.872Z] [INFO] 📝 Step: 🧪 Test Execution: Clicking on exam additional settings
+[2025-08-25T17:17:30.873Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T17:17:33.482Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T17:17:33.483Z] [INFO] 📝 Step: 🧪 Test Execution: Enabling retake exam option
+[2025-08-25T17:17:35.487Z] [INFO] 📝 Step: 📝 CoursePartsPage: Enabling retake exam option
+[2025-08-25T17:17:36.550Z] [INFO] Successfully clicked element: button#:r66:-form-item
+[2025-08-25T17:17:36.550Z] [INFO] 📝 Step: 📝 CoursePartsPage: Retake exam option enabled successfully
+[2025-08-25T17:17:36.550Z] [INFO] 📝 Step: 🧪 Test Execution: Saving exam settings
+[2025-08-25T17:17:36.642Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:17:36.643Z] [INFO] 📝 Step: 📝 CoursePartsPage: Random question option enabled and settings saved
+[2025-08-25T17:17:38.746Z] [INFO] 📝 Step: Go back to the course parts page
+[2025-08-25T17:17:38.758Z] [INFO] 📝 Step: 🧪 Test Execution: Retake exam option enabled and settings saved successfully
+[2025-08-25T17:18:11.923Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:18:11.924Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:18:11.925Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:18:11.925Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:18:12.022Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:18:12.030Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:18:12.042Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:18:12.043Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:18:12.140Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:18:12.147Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:18:12.155Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:18:12.156Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:18:12.210Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:18:12.210Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:18:12.211Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:18:15.233Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:18:15.236Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:18:15.238Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:18:15.525Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:18:15.526Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:18:15.526Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:18:15.856Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T17:18:15.865Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T17:18:15.898Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T17:18:15.898Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:18:15.899Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:18:15.963Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:18:15.973Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:18:15.973Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:18:16.027Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:18:19.028Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:18:19.856Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:18:19.928Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:18:19.928Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:18:19.929Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:18:19.929Z] [INFO] 📝 Step: 📚 NewCoursePage: Clicking 'Add New Item' button to add new Content to the course
+[2025-08-25T17:18:19.999Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:18:19.999Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully clicked 'Add New Item' button
+[2025-08-25T17:18:19.999Z] [INFO] 📝 Step: 📚 NewCoursePage: Adding title for new item: "Test Chapter"
+[2025-08-25T17:18:20.190Z] [INFO] Successfully clicked element: input#:r36:-form-item
+[2025-08-25T17:18:20.197Z] [INFO] Successfully cleared input: input#:r36:-form-item
+[2025-08-25T17:18:20.204Z] [INFO] Filled input: input#:r36:-form-item with "Test Chapter"
+[2025-08-25T17:18:20.204Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully added title: "Test Chapter"
+[2025-08-25T17:18:20.204Z] [INFO] 📝 Step: 📚 NewCoursePage: Submitting new item
+[2025-08-25T17:18:20.269Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:18:20.269Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully submitted new item
+[2025-08-25T17:18:20.270Z] [INFO] 📝 Step: 📚 NewCoursePage: Selecting newly added item
+[2025-08-25T17:18:21.664Z] [INFO] Successfully clicked element: h3.flex
+[2025-08-25T17:18:21.665Z] [INFO] 📝 Step: 📚 NewCoursePage: Successfully selected newly added item
+[2025-08-25T17:18:21.666Z] [INFO] 📝 Step: 🧪 Test Execution: Accessing exam additional settings
+[2025-08-25T17:18:21.666Z] [INFO] 📝 Step: 📝 CoursePartsPage: Selecting exam option
+[2025-08-25T17:18:21.758Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:18:21.759Z] [INFO] 📝 Step: 🧪 Test Execution: Adding exam title
+[2025-08-25T17:18:21.759Z] [INFO] 📝 Step: 📝 CoursePartsPage: Adding exam title: "Test Exam"
+[2025-08-25T17:18:21.954Z] [INFO] Successfully clicked element: input#:r3h:-form-item
+[2025-08-25T17:18:21.962Z] [INFO] Successfully cleared input: input#:r3h:-form-item
+[2025-08-25T17:18:21.970Z] [INFO] Filled input: input#:r3h:-form-item with "Test Exam"
+[2025-08-25T17:18:21.970Z] [INFO] 📝 Step: 📝 CoursePartsPage: Exam title "Test Exam" added successfully
+[2025-08-25T17:18:21.971Z] [INFO] 📝 Step: 🧪 Test Execution: Submitting the exam
+[2025-08-25T17:18:21.971Z] [INFO] 📝 Step: 📝 CoursePartsPage: Submitting exam
+[2025-08-25T17:18:22.030Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:18:22.031Z] [INFO] 📝 Step: 🧪 Test Execution: Clicking on exam additional settings
+[2025-08-25T17:18:22.031Z] [INFO] 📝 Step: 📝 CoursePartsPage: Clicking exam additional settings
+[2025-08-25T17:18:26.100Z] [INFO] Successfully clicked element: h3.text-xl
+[2025-08-25T17:18:26.101Z] [INFO] 📝 Step: 🧪 Test Execution: Successfully accessed exam additional settings
+[2025-08-25T17:21:50.083Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:21:50.085Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:21:50.086Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:21:50.087Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:21:50.217Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:21:50.226Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:21:50.238Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:21:50.238Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:21:50.382Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:21:50.389Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:21:50.396Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:21:50.397Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:21:50.452Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:21:50.453Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:21:50.453Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:21:57.455Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:21:57.456Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:21:57.456Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:21:57.754Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:21:57.754Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:21:57.754Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:21:57.968Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T17:21:57.979Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T17:21:57.990Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T17:21:57.991Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:21:57.992Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:21:58.056Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:21:58.069Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:21:58.070Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:21:58.143Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:22:01.145Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:22:01.995Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:22:02.089Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:22:02.090Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:22:02.090Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:22:02.116Z] [INFO] 📝 Step: CourseSettingsPage: Navigating to course settings
+[2025-08-25T17:22:02.255Z] [INFO] Successfully clicked element: a#radix-:r2p:-trigger-/courses/[courseId]/settings
+[2025-08-25T17:22:02.257Z] [INFO] 📝 Step: CourseSettingsPage: Successfully navigated to course settings
+[2025-08-25T17:22:02.259Z] [INFO] 📝 Step: CourseSettingsPage: Setting course duration to: ${time} hours
+[2025-08-25T17:22:03.187Z] [INFO] Successfully clicked element: input.h-10
+[2025-08-25T17:22:03.215Z] [ERROR] Error clearing element: input.h-10 {
+  "error": "Error: Failed to clear input, value still present: \"0\""
+}
+[2025-08-25T17:22:03.215Z] [ERROR] Failed to fill input: input.h-10 with "30" {
+  "error": "Error clearing element: Error: Failed to clear input, value still present: \"0\""
+}
+[2025-08-25T17:22:43.018Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T17:22:43.019Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:22:43.020Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:22:43.020Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:22:43.131Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:22:43.139Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:22:43.149Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:22:43.149Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:22:43.230Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:22:43.237Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:22:43.244Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:22:43.245Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:22:43.300Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:22:43.301Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:22:43.301Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:22:49.042Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:22:49.048Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:22:49.049Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:22:49.340Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:22:49.341Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:22:49.343Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:22:49.547Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T17:22:49.555Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T17:22:49.563Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T17:22:49.564Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:22:49.564Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:22:49.619Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:22:49.628Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:22:49.629Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:22:49.688Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:22:52.690Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:24:12.975Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T17:24:12.978Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:26:01.064Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:26:01.065Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:26:01.074Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:26:01.075Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:26:01.182Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:26:01.189Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:26:01.199Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:26:01.200Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:26:01.297Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:26:01.304Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:26:01.310Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:26:01.311Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:26:01.368Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:26:01.368Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:26:01.368Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:26:04.629Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:26:04.630Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:26:04.631Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:26:04.917Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:26:04.917Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:26:04.918Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:26:05.205Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T17:26:05.223Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T17:26:05.236Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T17:26:05.237Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:26:05.238Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:26:05.304Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:26:05.314Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:26:05.315Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:26:05.374Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:26:08.376Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:27:34.835Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T17:27:34.839Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:29:32.944Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:29:32.945Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:29:32.945Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:29:32.946Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:29:33.044Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:29:33.051Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:29:33.063Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:29:33.064Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:29:33.160Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:29:33.167Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:29:33.175Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:29:33.176Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:29:33.229Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:29:33.230Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:29:33.230Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:29:37.299Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:29:37.301Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:29:37.302Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:29:37.598Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:29:37.598Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:29:37.598Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:29:37.810Z] [INFO] Successfully clicked element: input#:r1d:-form-item
+[2025-08-25T17:29:37.829Z] [INFO] Successfully cleared input: input#:r1d:-form-item
+[2025-08-25T17:29:37.840Z] [INFO] Filled input: input#:r1d:-form-item with "Test Course"
+[2025-08-25T17:29:37.841Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:29:37.842Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:29:37.915Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:29:37.927Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:29:37.927Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:29:37.998Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:29:40.999Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:31:06.923Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T17:31:06.926Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:31:25.197Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:31:25.198Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:31:25.198Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:31:25.199Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:31:25.306Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:31:25.314Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:31:25.361Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:31:25.363Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:31:25.457Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:31:25.464Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:31:25.473Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:31:25.474Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:31:25.527Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:31:25.527Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:31:25.528Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:31:30.233Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:31:30.239Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:31:30.240Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:31:30.534Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:31:30.535Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:31:30.536Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:31:30.724Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T17:31:30.738Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T17:31:30.749Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T17:31:30.750Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:31:30.750Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:31:30.813Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:31:30.824Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:31:30.825Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:31:30.982Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:31:33.984Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:32:59.463Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T17:32:59.467Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:35:06.201Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:35:06.202Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:35:06.203Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:35:06.203Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:35:06.318Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:35:06.327Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:35:06.338Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:35:06.339Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:35:06.484Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:35:06.491Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:35:06.498Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:35:06.499Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:35:06.554Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:35:06.556Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:35:06.557Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:35:09.744Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:35:09.745Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:35:09.751Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:35:10.075Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:35:10.075Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:35:10.076Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:35:10.285Z] [INFO] Successfully clicked element: input#:r1d:-form-item
+[2025-08-25T17:35:10.294Z] [INFO] Successfully cleared input: input#:r1d:-form-item
+[2025-08-25T17:35:10.318Z] [INFO] Filled input: input#:r1d:-form-item with "Test Course"
+[2025-08-25T17:35:10.318Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:35:10.319Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:35:10.404Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:35:10.419Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:35:10.421Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:35:10.509Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:35:13.511Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:35:13.518Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T17:35:13.518Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:35:13.522Z] [INFO] 📝 Step: CourseSettingsPage: Navigating to course settings
+[2025-08-25T17:35:13.596Z] [INFO] Successfully clicked element: a#radix-:r2p:-trigger-/courses/[courseId]/settings
+[2025-08-25T17:35:13.596Z] [INFO] 📝 Step: CourseSettingsPage: Successfully navigated to course settings
+[2025-08-25T17:35:13.597Z] [INFO] 📝 Step: CourseSettingsPage: Setting course duration to: ${time} hours
+[2025-08-25T17:35:14.486Z] [INFO] Successfully clicked element: input.h-10
+[2025-08-25T17:35:14.513Z] [ERROR] Error clearing element: input.h-10 {
+  "error": "Error: Failed to clear input, value still present: \"0\""
+}
+[2025-08-25T17:35:14.514Z] [ERROR] Failed to fill input: input.h-10 with "30" {
+  "error": "Error clearing element: Error: Failed to clear input, value still present: \"0\""
+}
+[2025-08-25T17:46:06.221Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:46:06.222Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:46:06.222Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:46:06.222Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:46:06.319Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:46:06.327Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:46:06.337Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:46:06.339Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:46:06.468Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:46:06.475Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:46:06.483Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:46:06.484Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:46:06.537Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:46:06.537Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:46:06.537Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:46:10.559Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:46:10.560Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:46:10.561Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:46:10.838Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:46:10.838Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:46:10.839Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:46:11.119Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T17:46:11.131Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T17:46:11.140Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T17:46:11.140Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:46:11.140Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:46:11.207Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:46:11.218Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:46:11.218Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:46:11.291Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:46:14.293Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:46:14.299Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:46:14.354Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:46:14.355Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:46:14.355Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T17:46:14.355Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:46:14.359Z] [INFO] 📝 Step: CourseSettingsPage: Navigating to course settings
+[2025-08-25T17:46:14.484Z] [INFO] Successfully clicked element: a#radix-:r2p:-trigger-/courses/[courseId]/settings
+[2025-08-25T17:46:14.485Z] [INFO] 📝 Step: CourseSettingsPage: Successfully navigated to course settings
+[2025-08-25T17:46:14.485Z] [INFO] 📝 Step: CourseSettingsPage: Setting course duration to: {} hours 30
+[2025-08-25T17:46:15.294Z] [INFO] 📝 Step: CourseSettingsPage: Course duration set to: {} hours30
+[2025-08-25T17:46:15.294Z] [INFO] 📝 Step: CourseSettingsPage: Selecting instructor for the course
+[2025-08-25T17:46:15.295Z] [INFO] 📝 Step: CourseSettingsPage: Clicking instructor dropdown
+[2025-08-25T17:46:15.379Z] [INFO] Successfully clicked element: input#react-select-5-input
+[2025-08-25T17:46:15.379Z] [INFO] 📝 Step: CourseSettingsPage: Waiting for instructor options to load
+[2025-08-25T17:46:17.382Z] [INFO] 📝 Step: CourseSettingsPage: Selecting instructor
+[2025-08-25T17:46:17.445Z] [INFO] Successfully clicked element: span.text-sm
+[2025-08-25T17:46:17.448Z] [INFO] 📝 Step: CourseSettingsPage: Instructor selected successfully
+[2025-08-25T17:46:17.449Z] [INFO] 📝 Step: CourseSettingsPage: Selecting course category
+[2025-08-25T17:46:17.450Z] [INFO] 📝 Step: CourseSettingsPage: Clicking category dropdown
+[2025-08-25T17:46:17.551Z] [INFO] Successfully clicked element: input#react-select-10-input
+[2025-08-25T17:46:17.552Z] [INFO] 📝 Step: CourseSettingsPage: Filling category with 'غ'
+[2025-08-25T17:46:17.650Z] [INFO] Successfully clicked element: input#react-select-10-input
+[2025-08-25T17:46:17.658Z] [INFO] Successfully cleared input: input#react-select-10-input
+[2025-08-25T17:46:17.670Z] [INFO] Filled input: input#react-select-10-input with "غ"
+[2025-08-25T17:46:17.671Z] [INFO] 📝 Step: CourseSettingsPage: Waiting for category options to load
+[2025-08-25T17:46:18.672Z] [INFO] 📝 Step: CourseSettingsPage: Pressing Enter to confirm category
+[2025-08-25T17:46:18.706Z] [INFO] Successfully pressed key: Enter
+[2025-08-25T17:46:18.707Z] [INFO] 📝 Step: CourseSettingsPage: Course category selected successfully
+[2025-08-25T17:46:18.708Z] [INFO] 📝 Step: CourseSettingsPage: Uploading course photo from: ${filePath}
+[2025-08-25T17:46:18.708Z] [INFO] 📝 Step: CourseSettingsPage: Setting file input (foto)
+[2025-08-25T17:46:18.747Z] [INFO] 📝 Step: CourseSettingsPage: Clicking save course settings button
+[2025-08-25T17:46:18.843Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:46:18.844Z] [INFO] 📝 Step: CourseSettingsPage: Course photo uploaded and settings saved successfully
+[2025-08-25T17:47:38.889Z] [INFO] Successfully navigated to: /
+[2025-08-25T17:47:38.890Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T17:47:38.891Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:47:38.891Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:47:38.999Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T17:47:39.007Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T17:47:39.016Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T17:47:39.016Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T17:47:39.099Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T17:47:39.105Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T17:47:39.112Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T17:47:39.112Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T17:47:39.168Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:47:39.169Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T17:47:39.169Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T17:47:43.083Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:47:43.084Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T17:47:43.084Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T17:47:43.369Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T17:47:43.369Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T17:47:43.370Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T17:47:43.651Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T17:47:43.663Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T17:47:43.688Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T17:47:43.688Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T17:47:43.689Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T17:47:43.755Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T17:47:43.767Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T17:47:43.767Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T17:47:43.837Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T17:47:46.839Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T17:47:46.856Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T17:47:46.918Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T17:47:46.918Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T17:47:46.919Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T17:47:46.919Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T17:47:46.924Z] [INFO] 📝 Step: CourseSettingsPage: Navigating to course settings
+[2025-08-25T17:47:46.999Z] [INFO] Successfully clicked element: a#radix-:r2p:-trigger-/courses/[courseId]/settings
+[2025-08-25T17:47:47.000Z] [INFO] 📝 Step: CourseSettingsPage: Successfully navigated to course settings
+[2025-08-25T17:47:47.001Z] [INFO] 📝 Step: CourseSettingsPage: Setting course duration to: in hours 30
+[2025-08-25T17:47:47.810Z] [INFO] 📝 Step: CourseSettingsPage: Course duration set to: in hours30
+[2025-08-25T17:47:47.811Z] [INFO] 📝 Step: CourseSettingsPage: Selecting instructor for the course
+[2025-08-25T17:47:47.812Z] [INFO] 📝 Step: CourseSettingsPage: Clicking instructor dropdown
+[2025-08-25T17:47:47.875Z] [INFO] Successfully clicked element: input#react-select-5-input
+[2025-08-25T17:47:47.876Z] [INFO] 📝 Step: CourseSettingsPage: Waiting for instructor options to load
+[2025-08-25T17:47:49.877Z] [INFO] 📝 Step: CourseSettingsPage: Selecting instructor
+[2025-08-25T17:47:49.949Z] [INFO] Successfully clicked element: span.text-sm
+[2025-08-25T17:47:49.950Z] [INFO] 📝 Step: CourseSettingsPage: Instructor selected successfully
+[2025-08-25T17:47:49.951Z] [INFO] 📝 Step: CourseSettingsPage: Selecting course category
+[2025-08-25T17:47:49.951Z] [INFO] 📝 Step: CourseSettingsPage: Clicking category dropdown
+[2025-08-25T17:47:50.031Z] [INFO] Successfully clicked element: input#react-select-10-input
+[2025-08-25T17:47:50.031Z] [INFO] 📝 Step: CourseSettingsPage: Filling category with 'غ'
+[2025-08-25T17:47:50.133Z] [INFO] Successfully clicked element: input#react-select-10-input
+[2025-08-25T17:47:50.142Z] [INFO] Successfully cleared input: input#react-select-10-input
+[2025-08-25T17:47:50.151Z] [INFO] Filled input: input#react-select-10-input with "غ"
+[2025-08-25T17:47:50.152Z] [INFO] 📝 Step: CourseSettingsPage: Waiting for category options to load
+[2025-08-25T17:47:51.152Z] [INFO] 📝 Step: CourseSettingsPage: Pressing Enter to confirm category
+[2025-08-25T17:47:51.177Z] [INFO] Successfully pressed key: Enter
+[2025-08-25T17:47:51.177Z] [INFO] 📝 Step: CourseSettingsPage: Course category selected successfully
+[2025-08-25T17:47:51.178Z] [INFO] 📝 Step: CourseSettingsPage: Uploading course photo from: ${filePath}
+[2025-08-25T17:47:51.178Z] [INFO] 📝 Step: CourseSettingsPage: Setting file input (foto)
+[2025-08-25T17:47:51.206Z] [INFO] 📝 Step: CourseSettingsPage: Clicking save course settings button
+[2025-08-25T17:47:51.295Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T17:47:51.295Z] [INFO] 📝 Step: CourseSettingsPage: Course photo uploaded and settings saved successfully
+[2025-08-25T18:44:41.514Z] [INFO] 📝 Step: 🧪 Test Setup: Initializing LoginPage
+[2025-08-25T18:44:51.548Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T18:44:51.551Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T18:44:51.553Z] [INFO] 📝 Step: 🧪 Test Execution: Logging in with valid credentials from CSV
+[2025-08-25T18:44:51.555Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:44:51.556Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:45:19.390Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T18:45:19.400Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T18:45:19.412Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T18:45:19.414Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T18:45:19.570Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T18:45:19.578Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T18:45:19.600Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T18:45:19.600Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T18:45:19.662Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:45:19.667Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:48:25.117Z] [INFO] Successfully navigated to: /
+[2025-08-25T18:48:25.118Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T18:48:25.119Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:48:25.119Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:48:25.217Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T18:48:25.227Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T18:48:25.239Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T18:48:25.240Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T18:48:25.332Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T18:48:25.338Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T18:48:25.345Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T18:48:25.345Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T18:48:25.403Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:48:25.404Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:48:25.405Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T18:48:29.740Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:48:29.741Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T18:48:29.742Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T18:48:29.924Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T18:48:29.925Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T18:48:29.925Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T18:48:30.157Z] [INFO] Successfully clicked element: input#:r1d:-form-item
+[2025-08-25T18:48:30.167Z] [INFO] Successfully cleared input: input#:r1d:-form-item
+[2025-08-25T18:48:30.174Z] [INFO] Filled input: input#:r1d:-form-item with "Test Course"
+[2025-08-25T18:48:30.175Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T18:48:30.175Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T18:48:30.239Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T18:48:30.249Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T18:48:30.250Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T18:48:30.305Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T18:48:33.306Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T18:48:33.312Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T18:48:33.367Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T18:48:33.368Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T18:48:33.368Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T18:48:33.368Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T18:48:33.368Z] [INFO] 📝 Step: CourseSettingsPage: Navigating to course settings
+[2025-08-25T18:48:33.449Z] [INFO] Successfully clicked element: a#radix-:r2p:-trigger-/courses/[courseId]/settings
+[2025-08-25T18:48:33.450Z] [INFO] 📝 Step: CourseSettingsPage: Successfully navigated to course settings
+[2025-08-25T18:48:33.450Z] [INFO] 📝 Step: CourseSettingsPage: Setting course duration to: in hours 30
+[2025-08-25T18:48:33.883Z] [INFO] 📝 Step: CourseSettingsPage: Course duration set to: in hours30
+[2025-08-25T18:48:33.884Z] [INFO] 📝 Step: CourseSettingsPage: Selecting instructor for the course
+[2025-08-25T18:48:33.884Z] [INFO] 📝 Step: CourseSettingsPage: Clicking instructor dropdown
+[2025-08-25T18:48:33.959Z] [INFO] Successfully clicked element: input#react-select-5-input
+[2025-08-25T18:48:33.959Z] [INFO] 📝 Step: CourseSettingsPage: Waiting for instructor options to load
+[2025-08-25T18:48:35.960Z] [INFO] 📝 Step: CourseSettingsPage: Selecting instructor
+[2025-08-25T18:48:36.016Z] [INFO] Successfully clicked element: span.text-sm
+[2025-08-25T18:48:36.016Z] [INFO] 📝 Step: CourseSettingsPage: Instructor selected successfully
+[2025-08-25T18:48:36.017Z] [INFO] 📝 Step: CourseSettingsPage: Selecting course category
+[2025-08-25T18:48:36.017Z] [INFO] 📝 Step: CourseSettingsPage: Clicking category dropdown
+[2025-08-25T18:48:36.098Z] [INFO] Successfully clicked element: input#react-select-10-input
+[2025-08-25T18:48:36.099Z] [INFO] 📝 Step: CourseSettingsPage: Filling category with 'غ'
+[2025-08-25T18:48:36.218Z] [INFO] Successfully clicked element: input#react-select-10-input
+[2025-08-25T18:48:36.227Z] [INFO] Successfully cleared input: input#react-select-10-input
+[2025-08-25T18:48:36.239Z] [INFO] Filled input: input#react-select-10-input with "غ"
+[2025-08-25T18:48:36.240Z] [INFO] 📝 Step: CourseSettingsPage: Waiting for category options to load
+[2025-08-25T18:48:37.241Z] [INFO] 📝 Step: CourseSettingsPage: Pressing Enter to confirm category
+[2025-08-25T18:48:37.259Z] [INFO] Successfully pressed key: Enter
+[2025-08-25T18:48:37.261Z] [INFO] 📝 Step: CourseSettingsPage: Course category selected successfully
+[2025-08-25T18:48:37.262Z] [INFO] 📝 Step: CourseSettingsPage: Uploading course photo from: ${filePath}
+[2025-08-25T18:48:37.262Z] [INFO] 📝 Step: CourseSettingsPage: Setting file input (foto)
+[2025-08-25T18:48:37.287Z] [INFO] 📝 Step: CourseSettingsPage: Clicking save course settings button
+[2025-08-25T18:48:37.395Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:48:37.396Z] [INFO] 📝 Step: CourseSettingsPage: Course photo uploaded and settings saved successfully
+[2025-08-25T18:48:37.397Z] [INFO] 📝 Step: 📢 CoursePublishPage: Navigating to course publishing section
+[2025-08-25T18:48:37.472Z] [INFO] Successfully clicked element: a#radix-:r42:-trigger-/courses/[courseId]/publishing
+[2025-08-25T18:48:37.472Z] [INFO] 📝 Step: 📢 CoursePublishPage: Enabling publish course checkbox
+[2025-08-25T18:48:37.837Z] [INFO] Successfully clicked element: button#:r68:-form-item
+[2025-08-25T18:48:37.837Z] [INFO] 📝 Step: 📢 CoursePublishPage: Submitting course for publishing
+[2025-08-25T18:48:37.889Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:48:37.889Z] [INFO] 📝 Step: 📢 CoursePublishPage: Course published successfully
+[2025-08-25T18:49:34.913Z] [ERROR] Navigation failed to: / {
+  "error": "TimeoutError: page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"networkidle\"\u001b[22m\n"
+}
+[2025-08-25T18:49:34.914Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T18:49:34.914Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:49:34.915Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:49:35.034Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T18:49:35.041Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T18:49:35.061Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T18:49:35.062Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T18:49:35.132Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T18:49:35.138Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T18:49:35.145Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T18:49:35.145Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T18:49:35.210Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:49:35.214Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:49:35.224Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T18:49:42.565Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:49:42.566Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T18:49:42.566Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T18:49:42.855Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T18:49:42.855Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T18:49:42.855Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T18:49:43.068Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T18:49:43.076Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T18:49:43.084Z] [INFO] Filled input: input#:rq:-form-item with "Test Course"
+[2025-08-25T18:49:43.085Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T18:49:43.085Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T18:49:43.154Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T18:49:43.175Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T18:49:43.175Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T18:49:43.291Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T18:49:46.292Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T18:49:46.314Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T18:49:46.569Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T18:49:46.570Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T18:49:46.570Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T18:49:46.570Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T18:49:46.571Z] [INFO] 📝 Step: CourseSettingsPage: Navigating to course settings
+[2025-08-25T18:49:46.640Z] [INFO] Successfully clicked element: a#radix-:r2p:-trigger-/courses/[courseId]/settings
+[2025-08-25T18:49:46.640Z] [INFO] 📝 Step: CourseSettingsPage: Successfully navigated to course settings
+[2025-08-25T18:49:46.640Z] [INFO] 📝 Step: CourseSettingsPage: Setting course duration to: in hours 30
+[2025-08-25T18:49:48.979Z] [INFO] 📝 Step: CourseSettingsPage: Course duration set to: in hours30
+[2025-08-25T18:49:48.980Z] [INFO] 📝 Step: CourseSettingsPage: Selecting instructor for the course
+[2025-08-25T18:49:48.981Z] [INFO] 📝 Step: CourseSettingsPage: Clicking instructor dropdown
+[2025-08-25T18:49:49.076Z] [INFO] Successfully clicked element: input#react-select-5-input
+[2025-08-25T18:49:49.076Z] [INFO] 📝 Step: CourseSettingsPage: Waiting for instructor options to load
+[2025-08-25T18:49:51.077Z] [INFO] 📝 Step: CourseSettingsPage: Selecting instructor
+[2025-08-25T18:49:51.153Z] [INFO] Successfully clicked element: span.text-sm
+[2025-08-25T18:49:51.153Z] [INFO] 📝 Step: CourseSettingsPage: Instructor selected successfully
+[2025-08-25T18:49:51.154Z] [INFO] 📝 Step: CourseSettingsPage: Selecting course category
+[2025-08-25T18:49:51.154Z] [INFO] 📝 Step: CourseSettingsPage: Clicking category dropdown
+[2025-08-25T18:49:51.232Z] [INFO] Successfully clicked element: input#react-select-10-input
+[2025-08-25T18:49:51.232Z] [INFO] 📝 Step: CourseSettingsPage: Filling category with 'غ'
+[2025-08-25T18:49:51.349Z] [INFO] Successfully clicked element: input#react-select-10-input
+[2025-08-25T18:49:51.356Z] [INFO] Successfully cleared input: input#react-select-10-input
+[2025-08-25T18:49:51.367Z] [INFO] Filled input: input#react-select-10-input with "غ"
+[2025-08-25T18:49:51.368Z] [INFO] 📝 Step: CourseSettingsPage: Waiting for category options to load
+[2025-08-25T18:49:52.369Z] [INFO] 📝 Step: CourseSettingsPage: Pressing Enter to confirm category
+[2025-08-25T18:49:52.396Z] [INFO] Successfully pressed key: Enter
+[2025-08-25T18:49:52.397Z] [INFO] 📝 Step: CourseSettingsPage: Course category selected successfully
+[2025-08-25T18:49:52.397Z] [INFO] 📝 Step: CourseSettingsPage: Uploading course photo from: ${filePath}
+[2025-08-25T18:49:52.398Z] [INFO] 📝 Step: CourseSettingsPage: Setting file input (foto)
+[2025-08-25T18:49:52.426Z] [INFO] 📝 Step: CourseSettingsPage: Clicking save course settings button
+[2025-08-25T18:49:52.530Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:49:52.531Z] [INFO] 📝 Step: CourseSettingsPage: Course photo uploaded and settings saved successfully
+[2025-08-25T18:49:52.536Z] [INFO] 📝 Step: 📢 CoursePublishPage: Navigating to course publishing section
+[2025-08-25T18:49:52.639Z] [INFO] Successfully clicked element: a#radix-:r42:-trigger-/courses/[courseId]/publishing
+[2025-08-25T18:49:52.639Z] [INFO] 📝 Step: 📢 CoursePublishPage: Enabling publish course checkbox
+[2025-08-25T18:50:06.985Z] [WARN] Click attempt 1 failed, retrying... unknown element
+[2025-08-25T18:50:10.005Z] [WARN] Click attempt 2 failed, retrying... unknown element
+[2025-08-25T18:50:13.014Z] [ERROR] Failed to click element after 3 attempts: unknown element {
+  "error": "Error: Element not in visible state within 10000ms: Error: locator.waitFor: Target page, context or browser has been closed"
+}
+[2025-08-25T18:50:25.596Z] [INFO] Successfully navigated to: /
+[2025-08-25T18:50:25.597Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T18:50:25.597Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:50:25.598Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:50:25.700Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T18:50:25.707Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T18:50:25.717Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T18:50:25.717Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T18:50:25.798Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T18:50:25.804Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T18:50:25.810Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T18:50:25.810Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T18:50:25.868Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:50:25.869Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:50:25.869Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T18:50:30.889Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:50:30.890Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T18:50:30.891Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T18:50:31.120Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T18:50:31.120Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T18:50:31.120Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Test Course"
+[2025-08-25T18:50:31.365Z] [INFO] Successfully clicked element: input#:r1d:-form-item
+[2025-08-25T18:50:31.373Z] [INFO] Successfully cleared input: input#:r1d:-form-item
+[2025-08-25T18:50:31.382Z] [INFO] Filled input: input#:r1d:-form-item with "Test Course"
+[2025-08-25T18:50:31.382Z] [INFO] 📝 Step: HomePage: Course title "Test Course" added successfully
+[2025-08-25T18:50:31.382Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T18:50:31.455Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T18:50:31.483Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T18:50:31.484Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T18:50:31.555Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T18:50:34.556Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T18:50:34.575Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup detected, closing it
+[2025-08-25T18:50:34.635Z] [INFO] Successfully clicked element: span.cc-1x4xm
+[2025-08-25T18:50:34.635Z] [INFO] 📝 Step: 🏠 HomePage: Chat popup closed successfully
+[2025-08-25T18:50:34.635Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T18:50:34.635Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T18:50:34.636Z] [INFO] 📝 Step: CourseSettingsPage: Navigating to course settings
+[2025-08-25T18:50:34.715Z] [INFO] Successfully clicked element: a#radix-:r2p:-trigger-/courses/[courseId]/settings
+[2025-08-25T18:50:34.715Z] [INFO] 📝 Step: CourseSettingsPage: Successfully navigated to course settings
+[2025-08-25T18:50:34.715Z] [INFO] 📝 Step: CourseSettingsPage: Setting course duration to: in hours 30
+[2025-08-25T18:50:35.141Z] [INFO] 📝 Step: CourseSettingsPage: Course duration set to: in hours30
+[2025-08-25T18:50:35.141Z] [INFO] 📝 Step: CourseSettingsPage: Selecting instructor for the course
+[2025-08-25T18:50:35.142Z] [INFO] 📝 Step: CourseSettingsPage: Clicking instructor dropdown
+[2025-08-25T18:50:35.352Z] [INFO] Successfully clicked element: input#react-select-5-input
+[2025-08-25T18:50:35.353Z] [INFO] 📝 Step: CourseSettingsPage: Waiting for instructor options to load
+[2025-08-25T18:50:37.353Z] [INFO] 📝 Step: CourseSettingsPage: Selecting instructor
+[2025-08-25T18:50:37.398Z] [INFO] Successfully clicked element: span.text-sm
+[2025-08-25T18:50:37.398Z] [INFO] 📝 Step: CourseSettingsPage: Instructor selected successfully
+[2025-08-25T18:50:37.399Z] [INFO] 📝 Step: CourseSettingsPage: Selecting course category
+[2025-08-25T18:50:37.399Z] [INFO] 📝 Step: CourseSettingsPage: Clicking category dropdown
+[2025-08-25T18:50:37.481Z] [INFO] Successfully clicked element: input#react-select-10-input
+[2025-08-25T18:50:37.483Z] [INFO] 📝 Step: CourseSettingsPage: Filling category with 'غ'
+[2025-08-25T18:50:37.582Z] [INFO] Successfully clicked element: input#react-select-10-input
+[2025-08-25T18:50:37.590Z] [INFO] Successfully cleared input: input#react-select-10-input
+[2025-08-25T18:50:37.600Z] [INFO] Filled input: input#react-select-10-input with "غ"
+[2025-08-25T18:50:37.600Z] [INFO] 📝 Step: CourseSettingsPage: Waiting for category options to load
+[2025-08-25T18:50:38.601Z] [INFO] 📝 Step: CourseSettingsPage: Pressing Enter to confirm category
+[2025-08-25T18:50:38.626Z] [INFO] Successfully pressed key: Enter
+[2025-08-25T18:50:38.627Z] [INFO] 📝 Step: CourseSettingsPage: Course category selected successfully
+[2025-08-25T18:50:38.628Z] [INFO] 📝 Step: CourseSettingsPage: Uploading course photo from: ${filePath}
+[2025-08-25T18:50:38.629Z] [INFO] 📝 Step: CourseSettingsPage: Setting file input (foto)
+[2025-08-25T18:50:38.657Z] [INFO] 📝 Step: CourseSettingsPage: Clicking save course settings button
+[2025-08-25T18:50:38.746Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:50:38.746Z] [INFO] 📝 Step: CourseSettingsPage: Course photo uploaded and settings saved successfully
+[2025-08-25T18:50:38.751Z] [INFO] 📝 Step: 📢 CoursePublishPage: Navigating to course publishing section
+[2025-08-25T18:50:38.820Z] [INFO] Successfully clicked element: a#radix-:r42:-trigger-/courses/[courseId]/publishing
+[2025-08-25T18:50:38.820Z] [INFO] 📝 Step: 📢 CoursePublishPage: Enabling publish course checkbox
+[2025-08-25T18:50:39.153Z] [INFO] Successfully clicked element: button#:r68:-form-item
+[2025-08-25T18:50:39.153Z] [INFO] 📝 Step: 📢 CoursePublishPage: Submitting course for publishing
+[2025-08-25T18:50:39.222Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:50:39.222Z] [INFO] 📝 Step: 📢 CoursePublishPage: Course published successfully
+[2025-08-25T18:55:09.898Z] [INFO] Successfully navigated to: /
+[2025-08-25T18:55:09.899Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-25T18:55:09.900Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:55:09.900Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:55:10.046Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-25T18:55:10.057Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-25T18:55:10.104Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-25T18:55:10.104Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-25T18:55:10.191Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-25T18:55:10.203Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-25T18:55:10.215Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-25T18:55:10.216Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-25T18:55:10.296Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:55:10.298Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-25T18:55:10.298Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-25T18:55:15.336Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:55:15.342Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-25T18:55:15.343Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-25T18:55:15.633Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-25T18:55:15.634Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-25T18:55:15.635Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Cypress Course"
+[2025-08-25T18:55:15.967Z] [INFO] Successfully clicked element: input#:rq:-form-item
+[2025-08-25T18:55:15.984Z] [INFO] Successfully cleared input: input#:rq:-form-item
+[2025-08-25T18:55:15.996Z] [INFO] Filled input: input#:rq:-form-item with "Cypress Course"
+[2025-08-25T18:55:15.996Z] [INFO] 📝 Step: HomePage: Course title "Cypress Course" added successfully
+[2025-08-25T18:55:15.997Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-25T18:55:16.083Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-25T18:55:16.094Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-25T18:55:16.094Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-25T18:55:16.167Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-25T18:55:19.170Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-25T18:55:19.187Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-25T18:55:19.188Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-25T18:55:19.189Z] [INFO] 📝 Step: 📢 CoursePublishPage: Navigating to course publishing section
+[2025-08-25T18:55:19.277Z] [INFO] Successfully clicked element: a#radix-:r2p:-trigger-/courses/[courseId]/publishing
+[2025-08-25T18:55:19.278Z] [INFO] 📝 Step: 📢 CoursePublishPage: Enabling publish course checkbox
+[2025-08-25T18:55:20.133Z] [INFO] Successfully clicked element: button#:r4a:-form-item
+[2025-08-25T18:55:20.134Z] [INFO] 📝 Step: 📢 CoursePublishPage: Submitting course for publishing
+[2025-08-25T18:55:20.201Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-25T18:55:20.201Z] [INFO] 📝 Step: 📢 CoursePublishPage: Course published successfully
+[2025-08-25T18:55:20.202Z] [INFO] 📝 Step: 🧪 Test Execution: Opening tenant home page
+[2025-08-25T18:55:20.203Z] [INFO] 📝 Step: 🏢 TenantHomePage: Opening tenant page in new tab
+[2025-08-25T18:55:20.203Z] [INFO] 📝 Step: 🏢 TenantHomePage: Opening new tab and navigating to tenant page
+[2025-08-25T18:55:23.930Z] [INFO] Successfully opened https://qa-test.misklms.com/ in new tab
+[2025-08-25T18:55:23.931Z] [INFO] Successfully switched to new tab with URL: https://qa-test.misklms.com/
+[2025-08-25T18:55:23.932Z] [INFO] 📝 Step: 🏢 TenantHomePage: Successfully opened tenant page in new tab
+[2025-08-25T18:55:23.932Z] [INFO] 📝 Step: 🧪 Test Execution: Checking for the published course
+[2025-08-25T18:55:23.933Z] [INFO] 📝 Step: 🏢 TenantHomePage: Finding the course on tenant
+[2025-08-25T18:55:24.125Z] [INFO] Successfully clicked element: a.outline
+[2025-08-25T18:55:24.126Z] [INFO] 📝 Step: 🏢 TenantHomePage: Searching for 'Cypress Course' in course list
+[2025-08-25T18:55:24.130Z] [INFO] 📝 Step: 🏢 TenantHomePage: Found 3 course items to search through
+[2025-08-25T18:55:24.134Z] [INFO] 📝 Step: 🏢 TenantHomePage: Finding the course correctly on tenant
+[2025-08-25T18:55:24.134Z] [INFO] 📝 Step: 🧪 Test Execution: Published course verification completed successfully
