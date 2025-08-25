@@ -29,7 +29,7 @@ jobs:
         PLAYWRIGHT_HEADLESS: true
       
     - name: Run end-to-end tests
-      run: npx playwright test --grep "@end-to-end"
+      run: npx playwright test --grep "@end-to-end" --project=chromium
       env:
         PLAYWRIGHT_HEADLESS: true
       

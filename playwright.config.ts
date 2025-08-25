@@ -35,24 +35,27 @@ export default defineConfig({
     screenshot:'only-on-failure',
     browserName: 'chromium',
     channel: 'chrome',
-    headless: true,
+    headless: false,
   },
 
   /* Configure projects for major browsers */
+  //If you want to run the pipeline in specific browser, you can use the following code
+  //npx playwright test --grep "@end-to-end" --project=chromium
+
   projects: [
     {
       name: 'chromium',
-      use: { ...devices['Desktop Chrome'] },
+      use: { browserName: 'chromium' } 
     },
 
     {
       name: 'firefox',
-      use: { ...devices['Desktop Firefox'] },
+      use: { browserName: 'firefox' }
     },
 
     {
       name: 'webkit',
-      use: { ...devices['Desktop Safari'] },
+      use: { browserName: 'webkit' } 
     },
 
     /* Test against mobile viewports. */
