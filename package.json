@@ -4,7 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:login": "npx playwright test tests/LoginPageTest.spec.ts"
+    "test": "npx playwright test",
+    "test:login": "npx playwright test tests/LoginPageTest.spec.ts",
+    "test:e2e": "npx playwright test --grep '@end-to-end'",
+    "test:smoke": "npx playwright test --grep '@smoke'",
+    "test:critical": "npx playwright test --grep '@critical'",
+    "test:ui": "npx playwright test --ui",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "test:report": "npx playwright show-report",
+    "test:install": "npx playwright install --with-deps",
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint . --ext .ts --fix",
+    "format": "prettier --write \"**/*.{ts,js,json,md}\"",
+    "metrics": "node -e \"import('./utilities/TestMetrics.ts').then(m => m.TestMetricsCollector.generateReport())\""
   },
   "keywords": [],
   "author": "",
