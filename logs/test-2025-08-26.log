@@ -123,3 +123,12 @@
 [2025-08-26T00:21:44.948Z] [INFO] 📝 Step: 🏢 TenantHomePage: Found 3 course items to search through
 [2025-08-26T00:21:44.953Z] [INFO] 📝 Step: 🏢 TenantHomePage: Finding the course correctly on tenant
 [2025-08-26T00:21:44.953Z] [INFO] 📝 Step: 🧪 Test Execution: Published course verification completed successfully
+[2025-08-26T02:29:59.616Z] [ERROR] Navigation failed to: / {
+  "error": "Error: page.goto: net::ERR_INTERNET_DISCONNECTED at https://app.misklms.com/\nCall log:\n\u001b[2m  - navigating to \"https://app.misklms.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}
+[2025-08-26T02:29:59.617Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-26T02:29:59.617Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-26T02:29:59.617Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-26T02:30:02.920Z] [ERROR] Failed to fill input: unknown element with "raghad.a+QAmember@msaaq.com" {
+  "error": "locator.waitFor: Target page, context or browser has been closed"
+}
