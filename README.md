@@ -72,7 +72,7 @@ npx playwright show-report
 
 ## GitHub Actions CI
 
-The workflow `.github/workflows/ci.yml` is simplified to run a single pipeline that executes only tests tagged `@end-to-end` on Chromium. Artifacts like traces, videos, screenshots, and logs are uploaded on failure. An HTML report artifact is always uploaded.
+The workflow `.github/workflows/end-to-end-tests.yml` is simplified to run a single pipeline that executes only tests tagged `@end-to-end` on Chromium. Artifacts like traces, videos, screenshots, and logs are uploaded on failure. An HTML report artifact is always uploaded.
 
 Trigger: on every push and pull request to `main`.
 
@@ -94,18 +94,5 @@ Additional tags you can use locally: `@smoke`, `@critical`, `@ui`, etc. CI curre
 - Run artifacts (screenshots, videos, traces) go under `test-results/`.
 - Allure raw results are in `allure-results/` (if you integrate Allure report generation).
 
-## Environment Configuration
-
-Add environment variables or credentials using repository secrets for CI. Locally, use shell exports or a `.env` with a loader if needed.
-
-## Contributing
-
-- Keep tests isolated and idempotent.
-- Prefer Page Objects for reusability.
-- Use clear tags and descriptive test names.
-
-## License
-
-Proprietary/Internal. Adjust as needed.
 
 
