@@ -5,6 +5,42 @@ on:
     branches: [ main, develop ]
   pull_request:
     branches: [ main, develop ]
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to run tests against'
+        required: false
+        default: 'staging'
+        type: choice
+        options:
+          - staging
+          - production
+          - development
+      test_type:
+        description: 'Type of tests to run'
+        required: false
+        default: 'end-to-end'
+        type: choice
+        options:
+          - end-to-end
+          - smoke
+          - critical
+          - all
+      browser:
+        description: 'Browser to run tests on'
+        required: false
+        default: 'chromium'
+        type: choice
+        options:
+          - chromium
+          - firefox
+          - webkit
+          - all
+      custom_tags:
+        description: 'Custom test tags (comma-separated)'
+        required: false
+        default: '@end-to-end'
+        type: string
 
 jobs:
   test:
@@ -26,8 +62,31 @@ jobs:
     - name: Install Playwright browsers
       run: npx playwright install --with-deps
       
-    - name: Run end-to-end tests
-      run: npx playwright test --grep "@end-to-end" --project=chromium
+    - name: Run tests
+      run: |
+        # Set test command based on manual inputs or defaults
+        if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+          # Manual trigger with custom options
+          TEST_TAGS="${{ github.event.inputs.custom_tags }}"
+          BROWSER="${{ github.event.inputs.browser }}"
+          TEST_TYPE="${{ github.event.inputs.test_type }}"
+          
+          echo "Running tests with custom configuration:"
+          echo "Tags: $TEST_TAGS"
+          echo "Browser: $BROWSER"
+          echo "Test Type: $TEST_TYPE"
+          
+          # Build test command based on inputs
+          if [ "$BROWSER" == "all" ]; then
+            npx playwright test --grep "$TEST_TAGS"
+          else
+            npx playwright test --grep "$TEST_TAGS" --project="$BROWSER"
+          fi
+        else
+          # Automatic trigger (push/PR) - use defaults
+          echo "Running default end-to-end tests on Chromium"
+          npx playwright test --grep "@end-to-end" --project=chromium
+        fi
       
     - name: Upload test report
       uses: actions/upload-artifact@v4
@@ -59,11 +118,21 @@ jobs:
         echo "## 🧪 Test Execution Summary" >> $GITHUB_STEP_SUMMARY
         echo "- **Status**: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
         echo "- **Workflow**: ${{ github.workflow }}" >> $GITHUB_STEP_SUMMARY
-        echo "- **Branch**: ${{ github.ref_name }}" >> $GITHUB_STEP_SUMMARY
-        echo "- **Commit**: ${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Trigger Type**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+        
+        if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+          echo "- **Environment**: ${{ github.event.inputs.environment }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Test Type**: ${{ github.event.inputs.test_type }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Browser**: ${{ github.event.inputs.browser }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Custom Tags**: ${{ github.event.inputs.custom_tags }}" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "- **Branch**: ${{ github.ref_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Commit**: ${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Browser**: Chromium" >> $GITHUB_STEP_SUMMARY
+          echo "- **Tests Tagged**: @end-to-end" >> $GITHUB_STEP_SUMMARY
+        fi
+        
         echo "- **Triggered by**: ${{ github.actor }}" >> $GITHUB_STEP_SUMMARY
-        echo "- **Browser**: Chromium" >> $GITHUB_STEP_SUMMARY
-        echo "- **Tests Tagged**: @end-to-end" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "## 📊 Artifacts Available" >> $GITHUB_STEP_SUMMARY
         echo "- **Playwright Report**: HTML test report" >> $GITHUB_STEP_SUMMARY
