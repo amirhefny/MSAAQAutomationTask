@@ -618,7 +618,7 @@ export class BasePage {
     async navigateTo(url: string, options: NavigationOptions = {}): Promise<void> {
         logger.pageAction('Navigate to', url);
         const timeout = options.timeout ?? this.defaultTimeout;
-        const waitUntil = options.waitUntil ?? 'networkidle';
+        const waitUntil = options.waitUntil ?? 'domcontentloaded';
 
         try {
             await this.page.goto(url, { 
