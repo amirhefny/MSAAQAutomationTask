@@ -10,18 +10,11 @@ build/
 *.tsbuildinfo
 
 # Playwright specific
-test-results/
-playwright-report/
 playwright/.cache/
 playwright/downloads/
 playwright/package/
 
-# Allure results
-allure-results/
-allure-report/
-
 # Logs
-logs/
 *.log
 
 # Environment variables
@@ -58,13 +51,9 @@ coverage/
 *.lcov
 
 # Test artifacts
-screenshots/
-videos/
-traces/
 *.webm
 *.mp4
 *.png
 *.jpg
 *.jpeg
-*.gif
-*.zip 
+*.gif 

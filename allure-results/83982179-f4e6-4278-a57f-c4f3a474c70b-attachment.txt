@@ -1,0 +1,53 @@
+[2025-08-26T00:21:32.289Z] [INFO] Successfully navigated to: /
+[2025-08-26T00:21:32.289Z] [INFO] 📝 Step: 🔐 LoginPage: Successfully navigated to login page
+[2025-08-26T00:21:32.289Z] [INFO] 📝 Step: 🔐 LoginPage: Starting login process for user: raghad.a+QAmember@msaaq.com
+[2025-08-26T00:21:32.290Z] [INFO] 📝 Step: 🔐 LoginPage: Filling username: raghad.a+QAmember@msaaq.com
+[2025-08-26T00:21:32.372Z] [INFO] Successfully clicked element: input#:r1:-form-item
+[2025-08-26T00:21:32.381Z] [INFO] Successfully cleared input: input#:r1:-form-item
+[2025-08-26T00:21:32.391Z] [INFO] Filled input: input#:r1:-form-item with "raghad.a+QAmember@msaaq.com"
+[2025-08-26T00:21:32.391Z] [INFO] 📝 Step: 🔐 LoginPage: Filling password field
+[2025-08-26T00:21:32.481Z] [INFO] Successfully clicked element: input#:r2:-form-item
+[2025-08-26T00:21:32.488Z] [INFO] Successfully cleared input: input#:r2:-form-item
+[2025-08-26T00:21:32.496Z] [INFO] Filled input: input#:r2:-form-item with "dadad2##2@sdds"
+[2025-08-26T00:21:32.496Z] [INFO] 📝 Step: 🔐 LoginPage: Clicking submit button
+[2025-08-26T00:21:32.534Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-26T00:21:32.534Z] [INFO] 📝 Step: 🔐 LoginPage: Login process completed for user: raghad.a+QAmember@msaaq.com
+[2025-08-26T00:21:32.535Z] [INFO] 📝 Step: PhonePopupPage: Clicking 'Add Phone Later' button
+[2025-08-26T00:21:36.916Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-26T00:21:36.916Z] [INFO] 📝 Step: PhonePopupPage: Successfully clicked 'Add Phone Later' button
+[2025-08-26T00:21:36.916Z] [INFO] 📝 Step: 🏠 HomePage: Adding new course
+[2025-08-26T00:21:37.160Z] [INFO] Successfully clicked element: button.items-center
+[2025-08-26T00:21:37.160Z] [INFO] 📝 Step: 🏠 HomePage: New course button clicked successfully
+[2025-08-26T00:21:37.161Z] [INFO] 📝 Step: 🏠 HomePage: Adding course title: "Cypress Course"
+[2025-08-26T00:21:37.339Z] [INFO] Successfully clicked element: input#:r1d:-form-item
+[2025-08-26T00:21:37.349Z] [INFO] Successfully cleared input: input#:r1d:-form-item
+[2025-08-26T00:21:37.357Z] [INFO] Filled input: input#:r1d:-form-item with "Cypress Course"
+[2025-08-26T00:21:37.358Z] [INFO] 📝 Step: HomePage: Course title "Cypress Course" added successfully
+[2025-08-26T00:21:37.358Z] [INFO] 📝 Step: 🏠 HomePage: Selecting course type
+[2025-08-26T00:21:37.413Z] [INFO] Successfully clicked element: button#type-course
+[2025-08-26T00:21:37.420Z] [INFO] 📝 Step: 🏠 HomePage: Course type selected and verified successfully
+[2025-08-26T00:21:37.420Z] [INFO] 📝 Step: 🏠 HomePage: Submitting course
+[2025-08-26T00:21:37.470Z] [INFO] Successfully clicked element: div.sm:flex-row
+[2025-08-26T00:21:40.471Z] [INFO] 📝 Step: 🏠 HomePage: Checking for chat popup
+[2025-08-26T00:21:40.477Z] [INFO] 📝 Step: 🏠 HomePage: No chat popup chat bot detected
+[2025-08-26T00:21:40.477Z] [INFO] 📝 Step: 🏠 HomePage: Course submitted successfully
+[2025-08-26T00:21:40.477Z] [INFO] 📝 Step: 📢 CoursePublishPage: Navigating to course publishing section
+[2025-08-26T00:21:40.532Z] [INFO] Successfully clicked element: a#radix-:r2p:-trigger-/courses/[courseId]/publishing
+[2025-08-26T00:21:40.532Z] [INFO] 📝 Step: 📢 CoursePublishPage: Enabling publish course checkbox
+[2025-08-26T00:21:41.376Z] [INFO] Successfully clicked element: button#:r4a:-form-item
+[2025-08-26T00:21:41.376Z] [INFO] 📝 Step: 📢 CoursePublishPage: Submitting course for publishing
+[2025-08-26T00:21:41.422Z] [INFO] Successfully clicked element: button.inline-flex
+[2025-08-26T00:21:41.422Z] [INFO] 📝 Step: 📢 CoursePublishPage: Course published successfully
+[2025-08-26T00:21:41.423Z] [INFO] 📝 Step: 🧪 Test Execution: Opening tenant home page
+[2025-08-26T00:21:41.423Z] [INFO] 📝 Step: 🏢 TenantHomePage: Opening tenant page in new tab
+[2025-08-26T00:21:41.424Z] [INFO] 📝 Step: 🏢 TenantHomePage: Opening new tab and navigating to tenant page
+[2025-08-26T00:21:44.854Z] [INFO] Successfully opened https://qa-test.misklms.com/ in new tab
+[2025-08-26T00:21:44.855Z] [INFO] Successfully switched to new tab with URL: https://qa-test.misklms.com/
+[2025-08-26T00:21:44.855Z] [INFO] 📝 Step: 🏢 TenantHomePage: Successfully opened tenant page in new tab
+[2025-08-26T00:21:44.855Z] [INFO] 📝 Step: 🧪 Test Execution: Checking for the published course
+[2025-08-26T00:21:44.855Z] [INFO] 📝 Step: 🏢 TenantHomePage: Finding the course on tenant
+[2025-08-26T00:21:44.945Z] [INFO] Successfully clicked element: a.outline
+[2025-08-26T00:21:44.945Z] [INFO] 📝 Step: 🏢 TenantHomePage: Searching for 'Cypress Course' in course list
+[2025-08-26T00:21:44.948Z] [INFO] 📝 Step: 🏢 TenantHomePage: Found 3 course items to search through
+[2025-08-26T00:21:44.953Z] [INFO] 📝 Step: 🏢 TenantHomePage: Finding the course correctly on tenant
+[2025-08-26T00:21:44.953Z] [INFO] 📝 Step: 🧪 Test Execution: Published course verification completed successfully
