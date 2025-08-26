@@ -12,7 +12,7 @@ export class CoursePartsPage extends BasePage {
 
     private addTextCourse = () => this.page.locator("//div[@class='grid w-full grid-cols-3 gap-3']//a[5]");
     private addTextTitleInput = () => this.page.locator("//input[@name='title']");
-    private addTextContentInput = () => this.page.locator("//*[@id='__next']/div[1]/main/div[3]/div/form/div/div[1]/div[2]/div/div/div/div[2]/div");
+    private addTextContentInput = () => this.page.locator("//p[@class='text-node is-empty is-editor-empty']");
     private addNewTextCourseSubmitButton = () => this.page.locator("//div[@id='sidebar']//button[@type='submit']");
     private selectNewItem = () => this.page.locator("//h3[@data-state='closed']");
     private selectExam = () => this.page.locator("//div[@ class ='flex justify-between']//button");
@@ -36,7 +36,7 @@ export class CoursePartsPage extends BasePage {
         await this.fillInput(this.addTextTitleInput(),courseTitle)
         
         logger.step("📝 CoursePartsPage: Filling text content");
-        await this.fillInput(this.addTextContentInput(),courseContent)
+        await this.addTextContentInput().fill(courseContent);
         
         logger.step("📝 CoursePartsPage: Submitting text content");
         await this.click(this.addNewTextCourseSubmitButton());
