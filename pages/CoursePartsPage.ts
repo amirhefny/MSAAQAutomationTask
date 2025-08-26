@@ -12,7 +12,7 @@ export class CoursePartsPage extends BasePage {
 
     private addTextCourse = () => this.page.locator("//div[@class='grid w-full grid-cols-3 gap-3']//a[5]");
     private addTextTitleInput = () => this.page.locator("//input[@name='title']");
-    private addTextContentInput = () => this.page.locator("//p[@class='text-node is-empty is-editor-empty']");
+    private addTextContentInput = () => this.page.locator("(//div[@class='tiptap ProseMirror focus:outline-none p-5 h-full undefined'])[1]");
     private addNewTextCourseSubmitButton = () => this.page.locator("//div[@id='sidebar']//button[@type='submit']");
     private selectNewItem = () => this.page.locator("//h3[@data-state='closed']");
     private selectExam = () => this.page.locator("//div[@ class ='flex justify-between']//button");
